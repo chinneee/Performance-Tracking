@@ -1,1724 +1,436 @@
 {
-  "NewEleven_Dashboard Products Group by ASIN_01_10_2024-01_10_2024_(03_08_16_907).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 10\\NewEleven_Dashboard Products Group by ASIN_01_10_2024-01_10_2024_(03_08_16_907).xlsx",
-    "date": "2024-10-01",
-    "hash": "18bfc21623f04fc83005dd3656236271",
-    "modification_time": 1756088053.1562958,
-    "processed_at": "2025-08-29 12:49:57.781521"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_02_10_2024-02_10_2024_(03_15_04_141).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 10\\NewEleven_Dashboard Products Group by ASIN_02_10_2024-02_10_2024_(03_15_04_141).xlsx",
-    "date": "2024-10-02",
-    "hash": "cdec499839e3ee4f1a44915b308f3058",
-    "modification_time": 1756088053.1562958,
-    "processed_at": "2025-08-29 12:49:57.813429"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_03_10_2024-03_10_2024_(03_15_28_781).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 10\\NewEleven_Dashboard Products Group by ASIN_03_10_2024-03_10_2024_(03_15_28_781).xlsx",
-    "date": "2024-10-03",
-    "hash": "c25460e9bf2c7488c4a3039ee182d4ce",
-    "modification_time": 1756088053.1573007,
-    "processed_at": "2025-08-29 12:49:57.844741"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_04_10_2024-04_10_2024_(03_15_59_590).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 10\\NewEleven_Dashboard Products Group by ASIN_04_10_2024-04_10_2024_(03_15_59_590).xlsx",
-    "date": "2024-10-04",
-    "hash": "3d903dfc7590ad24ac448e846b36f5ba",
-    "modification_time": 1756088053.1573007,
-    "processed_at": "2025-08-29 12:49:57.875807"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_05_10_2024-05_10_2024_(03_16_47_536).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 10\\NewEleven_Dashboard Products Group by ASIN_05_10_2024-05_10_2024_(03_16_47_536).xlsx",
-    "date": "2024-10-05",
-    "hash": "6a97edf3c0c659a79e885e70b5d2ee9a",
-    "modification_time": 1756088053.158302,
-    "processed_at": "2025-08-29 12:49:57.908099"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_06_10_2024-06_10_2024_(03_17_10_440).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 10\\NewEleven_Dashboard Products Group by ASIN_06_10_2024-06_10_2024_(03_17_10_440).xlsx",
-    "date": "2024-10-06",
-    "hash": "b0e340ccb822bf9a903c2aed8432c5b7",
-    "modification_time": 1756088053.158302,
-    "processed_at": "2025-08-29 12:49:57.938641"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_07_10_2024-07_10_2024_(03_17_41_754).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 10\\NewEleven_Dashboard Products Group by ASIN_07_10_2024-07_10_2024_(03_17_41_754).xlsx",
-    "date": "2024-10-07",
-    "hash": "26b062f43ac974fae1ef2305732f253c",
-    "modification_time": 1756088053.1593063,
-    "processed_at": "2025-08-29 12:49:57.972926"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_08_10_2024-08_10_2024_(03_18_08_874).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 10\\NewEleven_Dashboard Products Group by ASIN_08_10_2024-08_10_2024_(03_18_08_874).xlsx",
-    "date": "2024-10-08",
-    "hash": "81db1fcec5610f152a43a602445300c4",
-    "modification_time": 1756088053.1593063,
-    "processed_at": "2025-08-29 12:49:58.007894"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_09_10_2024-09_10_2024_(03_19_10_419).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 10\\NewEleven_Dashboard Products Group by ASIN_09_10_2024-09_10_2024_(03_19_10_419).xlsx",
-    "date": "2024-10-09",
-    "hash": "131f8ccfa7c4b393acbddc25c058b63f",
-    "modification_time": 1756088053.1603,
-    "processed_at": "2025-08-29 12:49:58.040926"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_10_10_2024-10_10_2024_(03_19_36_522).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 10\\NewEleven_Dashboard Products Group by ASIN_10_10_2024-10_10_2024_(03_19_36_522).xlsx",
-    "date": "2024-10-10",
-    "hash": "6a730ac86d5dcb8caa099ac438650492",
-    "modification_time": 1756088053.1603,
-    "processed_at": "2025-08-29 12:49:58.074223"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_11_10_2024-11_10_2024_(03_19_56_743).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 10\\NewEleven_Dashboard Products Group by ASIN_11_10_2024-11_10_2024_(03_19_56_743).xlsx",
-    "date": "2024-10-11",
-    "hash": "ee7cdb48eaf6cd303aabfcb01fa6a99a",
-    "modification_time": 1756088053.161301,
-    "processed_at": "2025-08-29 12:49:58.107219"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_12_10_2024-12_10_2024_(03_20_21_881).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 10\\NewEleven_Dashboard Products Group by ASIN_12_10_2024-12_10_2024_(03_20_21_881).xlsx",
-    "date": "2024-10-12",
-    "hash": "366dc58f8a0406c7d3c3dbabf8f3a5e4",
-    "modification_time": 1756088053.161301,
-    "processed_at": "2025-08-29 12:49:58.140107"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_13_10_2024-13_10_2024_(03_20_46_412).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 10\\NewEleven_Dashboard Products Group by ASIN_13_10_2024-13_10_2024_(03_20_46_412).xlsx",
-    "date": "2024-10-13",
-    "hash": "c5b44f5099924e5ae34fd668863f50bc",
-    "modification_time": 1756088053.1622999,
-    "processed_at": "2025-08-29 12:49:58.173427"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_14_10_2024-14_10_2024_(03_21_08_802).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 10\\NewEleven_Dashboard Products Group by ASIN_14_10_2024-14_10_2024_(03_21_08_802).xlsx",
-    "date": "2024-10-14",
-    "hash": "01bbc669c7231726632f9c761fc0f96b",
-    "modification_time": 1756088053.1622999,
-    "processed_at": "2025-08-29 12:49:58.207162"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_15_10_2024-15_10_2024_(03_21_28_704).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 10\\NewEleven_Dashboard Products Group by ASIN_15_10_2024-15_10_2024_(03_21_28_704).xlsx",
-    "date": "2024-10-15",
-    "hash": "34d508ced73009f64a301fb4abcd6325",
-    "modification_time": 1756088053.1632998,
-    "processed_at": "2025-08-29 12:49:58.245731"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_16_10_2024-16_10_2024_(03_22_07_165).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 10\\NewEleven_Dashboard Products Group by ASIN_16_10_2024-16_10_2024_(03_22_07_165).xlsx",
-    "date": "2024-10-16",
-    "hash": "9f942d7025b9fc8371fadf63f065f445",
-    "modification_time": 1756088053.1632998,
-    "processed_at": "2025-08-29 12:49:58.279145"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_17_10_2024-17_10_2024_(03_22_33_697).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 10\\NewEleven_Dashboard Products Group by ASIN_17_10_2024-17_10_2024_(03_22_33_697).xlsx",
-    "date": "2024-10-17",
-    "hash": "68e6cbf4e50058c46686275b058ee577",
-    "modification_time": 1756088053.164301,
-    "processed_at": "2025-08-29 12:49:58.311437"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_18_10_2024-18_10_2024_(03_23_04_663).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 10\\NewEleven_Dashboard Products Group by ASIN_18_10_2024-18_10_2024_(03_23_04_663).xlsx",
-    "date": "2024-10-18",
-    "hash": "66ccbe8e2a4f529e6a526bf904dc7cb2",
-    "modification_time": 1756088053.1653006,
-    "processed_at": "2025-08-29 12:49:58.342922"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_19_10_2024-19_10_2024_(03_23_26_623).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 10\\NewEleven_Dashboard Products Group by ASIN_19_10_2024-19_10_2024_(03_23_26_623).xlsx",
-    "date": "2024-10-19",
-    "hash": "267990a40c004caa229107f5f2ce4e05",
-    "modification_time": 1756088053.1653006,
-    "processed_at": "2025-08-29 12:49:58.374384"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_20_10_2024-20_10_2024_(03_23_48_974).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 10\\NewEleven_Dashboard Products Group by ASIN_20_10_2024-20_10_2024_(03_23_48_974).xlsx",
-    "date": "2024-10-20",
-    "hash": "b776c5713c6bee697b472576b26d7352",
-    "modification_time": 1756088053.1663008,
-    "processed_at": "2025-08-29 12:49:58.407707"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_21_10_2024-21_10_2024_(03_24_11_726).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 10\\NewEleven_Dashboard Products Group by ASIN_21_10_2024-21_10_2024_(03_24_11_726).xlsx",
-    "date": "2024-10-21",
-    "hash": "ff7acb18c6c8856eea29401ba4923b9b",
-    "modification_time": 1756088053.1663008,
-    "processed_at": "2025-08-29 12:49:58.440577"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_22_10_2024-22_10_2024_(03_24_39_185).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 10\\NewEleven_Dashboard Products Group by ASIN_22_10_2024-22_10_2024_(03_24_39_185).xlsx",
-    "date": "2024-10-22",
-    "hash": "24afffdd4e8c3db5cf0f883523c47bef",
-    "modification_time": 1756088053.1677964,
-    "processed_at": "2025-08-29 12:49:58.474403"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_23_10_2024-23_10_2024_(03_25_08_443).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 10\\NewEleven_Dashboard Products Group by ASIN_23_10_2024-23_10_2024_(03_25_08_443).xlsx",
-    "date": "2024-10-23",
-    "hash": "10a6a041e741582a921dc830b08169e3",
-    "modification_time": 1756088053.1677964,
-    "processed_at": "2025-08-29 12:49:58.505839"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_24_10_2024-24_10_2024_(03_25_45_398).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 10\\NewEleven_Dashboard Products Group by ASIN_24_10_2024-24_10_2024_(03_25_45_398).xlsx",
-    "date": "2024-10-24",
-    "hash": "f57109cd6c9e647206c74bb1c8d1b8cd",
-    "modification_time": 1756088053.1688015,
-    "processed_at": "2025-08-29 12:49:58.538527"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_25_10_2024-25_10_2024_(03_26_08_178).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 10\\NewEleven_Dashboard Products Group by ASIN_25_10_2024-25_10_2024_(03_26_08_178).xlsx",
-    "date": "2024-10-25",
-    "hash": "a0d73ab8ee1be93a6d3cb3bfa77ff822",
-    "modification_time": 1756088053.1688015,
-    "processed_at": "2025-08-29 12:49:58.570424"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_26_10_2024-26_10_2024_(03_26_28_724).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 10\\NewEleven_Dashboard Products Group by ASIN_26_10_2024-26_10_2024_(03_26_28_724).xlsx",
-    "date": "2024-10-26",
-    "hash": "b2ba4aadb14664be5db684406c1f9449",
-    "modification_time": 1756088053.1698012,
-    "processed_at": "2025-08-29 12:49:58.602169"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_27_10_2024-27_10_2024_(03_26_47_393).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 10\\NewEleven_Dashboard Products Group by ASIN_27_10_2024-27_10_2024_(03_26_47_393).xlsx",
-    "date": "2024-10-27",
-    "hash": "15d0f20eee352c24a3bf6dbf50cd88de",
-    "modification_time": 1756088053.1698012,
-    "processed_at": "2025-08-29 12:49:58.632636"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_28_10_2024-28_10_2024_(03_27_10_224).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 10\\NewEleven_Dashboard Products Group by ASIN_28_10_2024-28_10_2024_(03_27_10_224).xlsx",
-    "date": "2024-10-28",
-    "hash": "55936f192c20b759551ba532d2ef3edc",
-    "modification_time": 1756088053.170801,
-    "processed_at": "2025-08-29 12:49:58.665018"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_29_10_2024-29_10_2024_(03_27_30_900).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 10\\NewEleven_Dashboard Products Group by ASIN_29_10_2024-29_10_2024_(03_27_30_900).xlsx",
-    "date": "2024-10-29",
-    "hash": "af1249ba46b0165a1f1f7f7f5f96116e",
-    "modification_time": 1756088053.1714904,
-    "processed_at": "2025-08-29 12:49:58.699476"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_30_10_2024-30_10_2024_(03_27_52_540).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 10\\NewEleven_Dashboard Products Group by ASIN_30_10_2024-30_10_2024_(03_27_52_540).xlsx",
-    "date": "2024-10-30",
-    "hash": "ed142769fc57c98895abe1d28037a777",
-    "modification_time": 1756088053.1714904,
-    "processed_at": "2025-08-29 12:49:58.732325"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_31_10_2024-31_10_2024_(03_29_27_548).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 10\\NewEleven_Dashboard Products Group by ASIN_31_10_2024-31_10_2024_(03_29_27_548).xlsx",
-    "date": "2024-10-31",
-    "hash": "724ffba0408d2d36a893c74dc3e9b0e9",
-    "modification_time": 1756088053.1724956,
-    "processed_at": "2025-08-29 12:49:58.764480"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_01_11_2024-01_11_2024_(03_33_38_937).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 11\\NewEleven_Dashboard Products Group by ASIN_01_11_2024-01_11_2024_(03_33_38_937).xlsx",
-    "date": "2024-11-01",
-    "hash": "a693ffee69f2b05b08cc5a9723247673",
-    "modification_time": 1756088053.1724956,
-    "processed_at": "2025-08-29 12:49:58.798359"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_02_11_2024-02_11_2024_(03_36_46_710).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 11\\NewEleven_Dashboard Products Group by ASIN_02_11_2024-02_11_2024_(03_36_46_710).xlsx",
-    "date": "2024-11-02",
-    "hash": "d0a2e151b809821197ca7008684381ba",
-    "modification_time": 1756088053.1734953,
-    "processed_at": "2025-08-29 12:49:58.831914"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_03_11_2024-03_11_2024_(03_37_23_920).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 11\\NewEleven_Dashboard Products Group by ASIN_03_11_2024-03_11_2024_(03_37_23_920).xlsx",
-    "date": "2024-11-03",
-    "hash": "f591819d2fe4bd5408d1c2eea40e43f6",
-    "modification_time": 1756088053.1734953,
-    "processed_at": "2025-08-29 12:49:58.865957"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_04_11_2024-04_11_2024_(19_21_49_119).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 11\\NewEleven_Dashboard Products Group by ASIN_04_11_2024-04_11_2024_(19_21_49_119).xlsx",
-    "date": "2024-11-04",
-    "hash": "f3fadacbac7ce118c19117cb2168cca4",
-    "modification_time": 1756088053.1744947,
-    "processed_at": "2025-08-29 12:49:58.904359"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_05_11_2024-05_11_2024_(19_22_28_779).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 11\\NewEleven_Dashboard Products Group by ASIN_05_11_2024-05_11_2024_(19_22_28_779).xlsx",
-    "date": "2024-11-05",
-    "hash": "11e8cef4085dcf12d18aebf3d021771b",
-    "modification_time": 1756088053.1744947,
-    "processed_at": "2025-08-29 12:49:58.937378"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_06_11_2024-06_11_2024_(19_22_57_741).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 11\\NewEleven_Dashboard Products Group by ASIN_06_11_2024-06_11_2024_(19_22_57_741).xlsx",
-    "date": "2024-11-06",
-    "hash": "a1f96322184ef3bb56a682fef1f16df3",
-    "modification_time": 1756088053.175495,
-    "processed_at": "2025-08-29 12:49:58.971110"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_07_11_2024-07_11_2024_(19_23_43_799).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 11\\NewEleven_Dashboard Products Group by ASIN_07_11_2024-07_11_2024_(19_23_43_799).xlsx",
-    "date": "2024-11-07",
-    "hash": "d50bd0fa90aad6f7a4887fe3102f35e6",
-    "modification_time": 1756088053.175495,
-    "processed_at": "2025-08-29 12:49:59.009413"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_08_11_2024-08_11_2024_(19_25_43_156).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 11\\NewEleven_Dashboard Products Group by ASIN_08_11_2024-08_11_2024_(19_25_43_156).xlsx",
-    "date": "2024-11-08",
-    "hash": "0e896ee006eb2b200d58760943c1cadb",
-    "modification_time": 1756088053.176495,
-    "processed_at": "2025-08-29 12:49:59.043968"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_09_11_2024-09_11_2024_(19_26_13_445).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 11\\NewEleven_Dashboard Products Group by ASIN_09_11_2024-09_11_2024_(19_26_13_445).xlsx",
-    "date": "2024-11-09",
-    "hash": "7c838ee36d44ee3f70b8e2136ca43e09",
-    "modification_time": 1756088053.176495,
-    "processed_at": "2025-08-29 12:49:59.077515"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_10_11_2024-10_11_2024_(19_26_46_544).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 11\\NewEleven_Dashboard Products Group by ASIN_10_11_2024-10_11_2024_(19_26_46_544).xlsx",
-    "date": "2024-11-10",
-    "hash": "f00c138c1283e7c91bcd7d9472e203e8",
-    "modification_time": 1756088053.1774948,
-    "processed_at": "2025-08-29 12:49:59.114796"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_11_11_2024-11_11_2024_(19_28_02_478).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 11\\NewEleven_Dashboard Products Group by ASIN_11_11_2024-11_11_2024_(19_28_02_478).xlsx",
-    "date": "2024-11-11",
-    "hash": "24201e28188f010d1f1013854fed923b",
-    "modification_time": 1756088053.1774948,
-    "processed_at": "2025-08-29 12:49:59.152285"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_12_11_2024-12_11_2024_(19_29_41_274).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 11\\NewEleven_Dashboard Products Group by ASIN_12_11_2024-12_11_2024_(19_29_41_274).xlsx",
-    "date": "2024-11-12",
-    "hash": "92286092e694ab1f1c00fbcc6012fa6b",
-    "modification_time": 1756088053.1784947,
-    "processed_at": "2025-08-29 12:49:59.192169"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_13_11_2024-13_11_2024_(19_33_55_879).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 11\\NewEleven_Dashboard Products Group by ASIN_13_11_2024-13_11_2024_(19_33_55_879).xlsx",
-    "date": "2024-11-13",
-    "hash": "a58bf4be7000e6b93e6ba4912a11350c",
-    "modification_time": 1756088053.1794944,
-    "processed_at": "2025-08-29 12:49:59.232640"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_14_11_2024-14_11_2024_(19_40_10_904).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 11\\NewEleven_Dashboard Products Group by ASIN_14_11_2024-14_11_2024_(19_40_10_904).xlsx",
-    "date": "2024-11-14",
-    "hash": "2e51f71f1a221b9113953a43e477a4b8",
-    "modification_time": 1756088053.1802797,
-    "processed_at": "2025-08-29 12:49:59.271815"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_15_11_2024-15_11_2024_(19_40_47_430).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 11\\NewEleven_Dashboard Products Group by ASIN_15_11_2024-15_11_2024_(19_40_47_430).xlsx",
-    "date": "2024-11-15",
-    "hash": "1d123b1d88acf4f10faa791807c46217",
-    "modification_time": 1756088053.1814198,
-    "processed_at": "2025-08-29 12:49:59.313248"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_16_11_2024-16_11_2024_(19_45_46_175).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 11\\NewEleven_Dashboard Products Group by ASIN_16_11_2024-16_11_2024_(19_45_46_175).xlsx",
-    "date": "2024-11-16",
-    "hash": "bc7307603fd4d2de7d09d18bdabf8207",
-    "modification_time": 1756088053.1824255,
-    "processed_at": "2025-08-29 12:49:59.352449"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_17_11_2024-17_11_2024_(20_00_59_747).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 11\\NewEleven_Dashboard Products Group by ASIN_17_11_2024-17_11_2024_(20_00_59_747).xlsx",
-    "date": "2024-11-17",
-    "hash": "c3649c2a67a0298e9cdf71ec4bc877f3",
-    "modification_time": 1756088053.1824255,
-    "processed_at": "2025-08-29 12:49:59.392430"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_18_11_2024-18_11_2024_(20_01_44_980).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 11\\NewEleven_Dashboard Products Group by ASIN_18_11_2024-18_11_2024_(20_01_44_980).xlsx",
-    "date": "2024-11-18",
-    "hash": "0eb0ff7717ea193786eb9c07cb26f6d6",
-    "modification_time": 1756088053.1834266,
-    "processed_at": "2025-08-29 12:49:59.433542"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_19_11_2024-19_11_2024_(20_02_31_898).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 11\\NewEleven_Dashboard Products Group by ASIN_19_11_2024-19_11_2024_(20_02_31_898).xlsx",
-    "date": "2024-11-19",
-    "hash": "39ca8fb6d9459264c303f4552c2e20c3",
-    "modification_time": 1756088053.184425,
-    "processed_at": "2025-08-29 12:49:59.474445"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_20_11_2024-20_11_2024_(20_02_55_442).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 11\\NewEleven_Dashboard Products Group by ASIN_20_11_2024-20_11_2024_(20_02_55_442).xlsx",
-    "date": "2024-11-20",
-    "hash": "180279133dc5e37c6b0dead021e90894",
-    "modification_time": 1756088053.1850612,
-    "processed_at": "2025-08-29 12:49:59.513519"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_21_11_2024-21_11_2024_(20_03_24_553).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 11\\NewEleven_Dashboard Products Group by ASIN_21_11_2024-21_11_2024_(20_03_24_553).xlsx",
-    "date": "2024-11-21",
-    "hash": "855df09c2022260c7ffd1574434351c5",
-    "modification_time": 1756088053.1850612,
-    "processed_at": "2025-08-29 12:49:59.554884"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_22_11_2024-22_11_2024_(20_03_56_972).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 11\\NewEleven_Dashboard Products Group by ASIN_22_11_2024-22_11_2024_(20_03_56_972).xlsx",
-    "date": "2024-11-22",
-    "hash": "ffdaff54d138b3a3d3fe7863f369aa61",
-    "modification_time": 1756088053.1860697,
-    "processed_at": "2025-08-29 12:49:59.598161"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_23_11_2024-23_11_2024_(20_04_23_245).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 11\\NewEleven_Dashboard Products Group by ASIN_23_11_2024-23_11_2024_(20_04_23_245).xlsx",
-    "date": "2024-11-23",
-    "hash": "829b448471f5a79d064d525fdb19c274",
-    "modification_time": 1756088053.1860697,
-    "processed_at": "2025-08-29 12:49:59.640045"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_24_11_2024-24_11_2024_(20_04_57_874).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 11\\NewEleven_Dashboard Products Group by ASIN_24_11_2024-24_11_2024_(20_04_57_874).xlsx",
-    "date": "2024-11-24",
-    "hash": "fb33bd26c897439ad20313e6cb54ba20",
-    "modification_time": 1756088053.1870692,
-    "processed_at": "2025-08-29 12:49:59.681975"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_25_11_2024-25_11_2024_(20_05_33_768).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 11\\NewEleven_Dashboard Products Group by ASIN_25_11_2024-25_11_2024_(20_05_33_768).xlsx",
-    "date": "2024-11-25",
-    "hash": "df2a6ee484d76a3914d1284d518e6892",
-    "modification_time": 1756088053.1870692,
-    "processed_at": "2025-08-29 12:49:59.722000"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_26_11_2024-26_11_2024_(20_06_17_145).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 11\\NewEleven_Dashboard Products Group by ASIN_26_11_2024-26_11_2024_(20_06_17_145).xlsx",
-    "date": "2024-11-26",
-    "hash": "23c479df02857791a98c37cd7e31694b",
-    "modification_time": 1756088053.1880696,
-    "processed_at": "2025-08-29 12:49:59.765405"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_27_11_2024-27_11_2024_(20_07_12_820).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 11\\NewEleven_Dashboard Products Group by ASIN_27_11_2024-27_11_2024_(20_07_12_820).xlsx",
-    "date": "2024-11-27",
-    "hash": "0c6505dab733bda8e56afb1b2866fdf7",
-    "modification_time": 1756088053.1880696,
-    "processed_at": "2025-08-29 12:49:59.811939"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_28_11_2024-28_11_2024_(20_07_41_836).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 11\\NewEleven_Dashboard Products Group by ASIN_28_11_2024-28_11_2024_(20_07_41_836).xlsx",
-    "date": "2024-11-28",
-    "hash": "1c0f83501899b93f51d5d6f5cbcb70b5",
-    "modification_time": 1756088053.189067,
-    "processed_at": "2025-08-29 12:49:59.850341"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_29_11_2024-29_11_2024_(20_08_15_707).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 11\\NewEleven_Dashboard Products Group by ASIN_29_11_2024-29_11_2024_(20_08_15_707).xlsx",
-    "date": "2024-11-29",
-    "hash": "8ad2d7516087806392d272c4a83226f8",
-    "modification_time": 1756088053.1900668,
-    "processed_at": "2025-08-29 12:49:59.889006"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_30_11_2024-30_11_2024_(20_09_00_234).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 11\\NewEleven_Dashboard Products Group by ASIN_30_11_2024-30_11_2024_(20_09_00_234).xlsx",
-    "date": "2024-11-30",
-    "hash": "17fbf2b634f6ce770b8de4aec4f83921",
-    "modification_time": 1756088053.1900668,
-    "processed_at": "2025-08-29 12:49:59.931731"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_01_12_2024-01_12_2024_(20_10_24_415).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 12\\NewEleven_Dashboard Products Group by ASIN_01_12_2024-01_12_2024_(20_10_24_415).xlsx",
-    "date": "2024-12-01",
-    "hash": "f56e027f4e897c0333b74b3869476782",
-    "modification_time": 1756088053.1914573,
-    "processed_at": "2025-08-29 12:49:59.973237"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_02_12_2024-02_12_2024_(20_12_16_633).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 12\\NewEleven_Dashboard Products Group by ASIN_02_12_2024-02_12_2024_(20_12_16_633).xlsx",
-    "date": "2024-12-02",
-    "hash": "d0a76fbb4610eb8f1b1bbc88a548e859",
-    "modification_time": 1756088053.192462,
-    "processed_at": "2025-08-29 12:50:00.017658"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_03_12_2024-03_12_2024_(20_12_52_630).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 12\\NewEleven_Dashboard Products Group by ASIN_03_12_2024-03_12_2024_(20_12_52_630).xlsx",
-    "date": "2024-12-03",
-    "hash": "dbd6108875a47142e542516e929c4a1e",
-    "modification_time": 1756088053.1934626,
-    "processed_at": "2025-08-29 12:50:00.057281"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_04_12_2024-04_12_2024_(20_13_45_451).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 12\\NewEleven_Dashboard Products Group by ASIN_04_12_2024-04_12_2024_(20_13_45_451).xlsx",
-    "date": "2024-12-04",
-    "hash": "f5a81763b53319f5a45bc7bcf97cc2d5",
-    "modification_time": 1756088053.1934626,
-    "processed_at": "2025-08-29 12:50:00.097908"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_05_12_2024-05_12_2024_(20_14_11_817).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 12\\NewEleven_Dashboard Products Group by ASIN_05_12_2024-05_12_2024_(20_14_11_817).xlsx",
-    "date": "2024-12-05",
-    "hash": "2bd0bcded9b1529b3b8c7339c1cfca9d",
-    "modification_time": 1756088053.1944618,
-    "processed_at": "2025-08-29 12:50:00.137247"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_06_12_2024-06_12_2024_(20_14_40_580).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 12\\NewEleven_Dashboard Products Group by ASIN_06_12_2024-06_12_2024_(20_14_40_580).xlsx",
-    "date": "2024-12-06",
-    "hash": "3c35be6bf229693daac0ebea8b8180b0",
-    "modification_time": 1756088053.1944618,
-    "processed_at": "2025-08-29 12:50:00.181822"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_07_12_2024-07_12_2024_(20_15_18_172).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 12\\NewEleven_Dashboard Products Group by ASIN_07_12_2024-07_12_2024_(20_15_18_172).xlsx",
-    "date": "2024-12-07",
-    "hash": "758bde26edda80ec6e41ba6cf2a017d4",
-    "modification_time": 1756088053.1954615,
-    "processed_at": "2025-08-29 12:50:00.223135"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_08_12_2024-08_12_2024_(20_15_46_669).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 12\\NewEleven_Dashboard Products Group by ASIN_08_12_2024-08_12_2024_(20_15_46_669).xlsx",
-    "date": "2024-12-08",
-    "hash": "6e39318cd8c6dc49d729f18ed6db0a47",
-    "modification_time": 1756088053.1954615,
-    "processed_at": "2025-08-29 12:50:00.267143"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_09_12_2024-09_12_2024_(20_16_20_295).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 12\\NewEleven_Dashboard Products Group by ASIN_09_12_2024-09_12_2024_(20_16_20_295).xlsx",
-    "date": "2024-12-09",
-    "hash": "5aae5e47a884deffc51525adcdf99848",
-    "modification_time": 1756088053.1964612,
-    "processed_at": "2025-08-29 12:50:00.306282"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_10_12_2024-10_12_2024_(20_17_01_646).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 12\\NewEleven_Dashboard Products Group by ASIN_10_12_2024-10_12_2024_(20_17_01_646).xlsx",
-    "date": "2024-12-10",
-    "hash": "702d10321f78d1a3189a1bed07482489",
-    "modification_time": 1756088053.1969824,
-    "processed_at": "2025-08-29 12:50:00.348589"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_11_12_2024-11_12_2024_(20_23_45_743).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 12\\NewEleven_Dashboard Products Group by ASIN_11_12_2024-11_12_2024_(20_23_45_743).xlsx",
-    "date": "2024-12-11",
-    "hash": "51cfcc71c705fe819fba9daa5385d406",
-    "modification_time": 1756088053.197991,
-    "processed_at": "2025-08-29 12:50:00.394513"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_12_12_2024-12_12_2024_(20_24_24_942).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 12\\NewEleven_Dashboard Products Group by ASIN_12_12_2024-12_12_2024_(20_24_24_942).xlsx",
-    "date": "2024-12-12",
-    "hash": "1f39487b5487dde09cf973ad650317f9",
-    "modification_time": 1756088053.197991,
-    "processed_at": "2025-08-29 12:50:00.437904"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_13_12_2024-13_12_2024_(20_24_55_391).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 12\\NewEleven_Dashboard Products Group by ASIN_13_12_2024-13_12_2024_(20_24_55_391).xlsx",
-    "date": "2024-12-13",
-    "hash": "c32184208fc0ba36e15df7bad6a67572",
-    "modification_time": 1756088053.19899,
-    "processed_at": "2025-08-29 12:50:00.480957"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_14_12_2024-14_12_2024_(20_25_33_568).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 12\\NewEleven_Dashboard Products Group by ASIN_14_12_2024-14_12_2024_(20_25_33_568).xlsx",
-    "date": "2024-12-14",
-    "hash": "361521fe2f62200888941a10a26f8f5c",
-    "modification_time": 1756088053.19899,
-    "processed_at": "2025-08-29 12:50:00.523225"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_15_12_2024-15_12_2024_(20_26_07_216).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 12\\NewEleven_Dashboard Products Group by ASIN_15_12_2024-15_12_2024_(20_26_07_216).xlsx",
-    "date": "2024-12-15",
-    "hash": "cb8130401a837235cbf9769003726e36",
-    "modification_time": 1756088053.1999888,
-    "processed_at": "2025-08-29 12:50:00.570568"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_16_12_2024-16_12_2024_(20_26_45_287).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 12\\NewEleven_Dashboard Products Group by ASIN_16_12_2024-16_12_2024_(20_26_45_287).xlsx",
-    "date": "2024-12-16",
-    "hash": "b3d8f30373a9b2f0a5875ec7316eba1a",
-    "modification_time": 1756088053.2009878,
-    "processed_at": "2025-08-29 12:50:00.611571"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_17_12_2024-17_12_2024_(20_27_31_232).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 12\\NewEleven_Dashboard Products Group by ASIN_17_12_2024-17_12_2024_(20_27_31_232).xlsx",
-    "date": "2024-12-17",
-    "hash": "98bc922af76d6908b0fd3caa4d2c8bc9",
-    "modification_time": 1756088053.2009878,
-    "processed_at": "2025-08-29 12:50:00.656037"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_18_12_2024-18_12_2024_(20_28_08_910).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 12\\NewEleven_Dashboard Products Group by ASIN_18_12_2024-18_12_2024_(20_28_08_910).xlsx",
-    "date": "2024-12-18",
-    "hash": "afec79894c64ba6c7346d5620831f08e",
-    "modification_time": 1756088053.201988,
-    "processed_at": "2025-08-29 12:50:00.701988"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_19_12_2024-19_12_2024_(20_28_42_123).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 12\\NewEleven_Dashboard Products Group by ASIN_19_12_2024-19_12_2024_(20_28_42_123).xlsx",
-    "date": "2024-12-19",
-    "hash": "08365a78ed2420a0c14bdb380c819977",
-    "modification_time": 1756088053.202986,
-    "processed_at": "2025-08-29 12:50:00.744800"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_20_12_2024-20_12_2024_(20_29_42_513).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 12\\NewEleven_Dashboard Products Group by ASIN_20_12_2024-20_12_2024_(20_29_42_513).xlsx",
-    "date": "2024-12-20",
-    "hash": "cb5a5564f3ef7278f74c5023b851a14e",
-    "modification_time": 1756088053.2039876,
-    "processed_at": "2025-08-29 12:50:00.787929"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_21_12_2024-21_12_2024_(20_31_16_515).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 12\\NewEleven_Dashboard Products Group by ASIN_21_12_2024-21_12_2024_(20_31_16_515).xlsx",
-    "date": "2024-12-21",
-    "hash": "7125ae1e382794e1444d5280d7790ccf",
-    "modification_time": 1756088053.2039876,
-    "processed_at": "2025-08-29 12:50:00.830521"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_22_12_2024-22_12_2024_(20_31_55_220).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 12\\NewEleven_Dashboard Products Group by ASIN_22_12_2024-22_12_2024_(20_31_55_220).xlsx",
-    "date": "2024-12-22",
-    "hash": "a5790a4bb09a684b0ecda4849845e967",
-    "modification_time": 1756088053.2049878,
-    "processed_at": "2025-08-29 12:50:00.870895"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_23_12_2024-23_12_2024_(20_32_42_778).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 12\\NewEleven_Dashboard Products Group by ASIN_23_12_2024-23_12_2024_(20_32_42_778).xlsx",
-    "date": "2024-12-23",
-    "hash": "2985a1e8a888a4c1abe2b5f46c4257f5",
-    "modification_time": 1756088053.2049878,
-    "processed_at": "2025-08-29 12:50:00.914553"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_24_12_2024-24_12_2024_(20_33_05_437).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 12\\NewEleven_Dashboard Products Group by ASIN_24_12_2024-24_12_2024_(20_33_05_437).xlsx",
-    "date": "2024-12-24",
-    "hash": "61eb90b551146dd57423ee543ac0fefc",
-    "modification_time": 1756088053.2059877,
-    "processed_at": "2025-08-29 12:50:00.952489"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_25_12_2024-25_12_2024_(20_33_32_508).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 12\\NewEleven_Dashboard Products Group by ASIN_25_12_2024-25_12_2024_(20_33_32_508).xlsx",
-    "date": "2024-12-25",
-    "hash": "89ff83c04b618935b4d26db5c95d4d6c",
-    "modification_time": 1756088053.2059877,
-    "processed_at": "2025-08-29 12:50:00.995371"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_26_12_2024-26_12_2024_(20_33_53_741).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 12\\NewEleven_Dashboard Products Group by ASIN_26_12_2024-26_12_2024_(20_33_53_741).xlsx",
-    "date": "2024-12-26",
-    "hash": "f0778c3f2527012c18cd6adc3b13259e",
-    "modification_time": 1756088053.2069876,
-    "processed_at": "2025-08-29 12:50:01.034347"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_27_12_2024-27_12_2024_(20_34_31_329).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 12\\NewEleven_Dashboard Products Group by ASIN_27_12_2024-27_12_2024_(20_34_31_329).xlsx",
-    "date": "2024-12-27",
-    "hash": "aa0b5e03d41d7374acd5b5c52cd98f9a",
-    "modification_time": 1756088053.2069876,
-    "processed_at": "2025-08-29 12:50:01.074317"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_28_12_2024-28_12_2024_(20_35_54_839).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 12\\NewEleven_Dashboard Products Group by ASIN_28_12_2024-28_12_2024_(20_35_54_839).xlsx",
-    "date": "2024-12-28",
-    "hash": "073c154ab4f7d9ce6225f6c5a3f95d62",
-    "modification_time": 1756088053.2080853,
-    "processed_at": "2025-08-29 12:50:01.113497"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_29_12_2024-29_12_2024_(20_36_15_576).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 12\\NewEleven_Dashboard Products Group by ASIN_29_12_2024-29_12_2024_(20_36_15_576).xlsx",
-    "date": "2024-12-29",
-    "hash": "ed7aa27b965bd7eff4d51b648d76e38f",
-    "modification_time": 1756088053.209263,
-    "processed_at": "2025-08-29 12:50:01.151012"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_30_12_2024-30_12_2024_(20_36_39_852).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 12\\NewEleven_Dashboard Products Group by ASIN_30_12_2024-30_12_2024_(20_36_39_852).xlsx",
-    "date": "2024-12-30",
-    "hash": "9b0d35599d13ccf9d895425b4257de67",
-    "modification_time": 1756088053.209263,
-    "processed_at": "2025-08-29 12:50:01.187751"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_31_12_2024-31_12_2024_(20_37_05_399).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 12\\NewEleven_Dashboard Products Group by ASIN_31_12_2024-31_12_2024_(20_37_05_399).xlsx",
-    "date": "2024-12-31",
-    "hash": "1c84506259435f8d05cad713a5780690",
-    "modification_time": 1756088053.210325,
-    "processed_at": "2025-08-29 12:50:01.225026"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_01_07_2024-01_07_2024_(00_37_25_747).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 7\\NewEleven_Dashboard Products Group by ASIN_01_07_2024-01_07_2024_(00_37_25_747).xlsx",
-    "date": "2024-07-01",
-    "hash": "c9564aa9c4c842b6e01a626b33665257",
-    "modification_time": 1756088053.210325,
-    "processed_at": "2025-08-29 12:50:01.257735"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_02_07_2024-02_07_2024_(00_40_29_818).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 7\\NewEleven_Dashboard Products Group by ASIN_02_07_2024-02_07_2024_(00_40_29_818).xlsx",
-    "date": "2024-07-02",
-    "hash": "816177ec564dd2e7e51be4d173e7ecdf",
-    "modification_time": 1756088053.2113287,
-    "processed_at": "2025-08-29 12:50:01.288560"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_03_07_2024-03_07_2024_(00_42_07_595).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 7\\NewEleven_Dashboard Products Group by ASIN_03_07_2024-03_07_2024_(00_42_07_595).xlsx",
-    "date": "2024-07-03",
-    "hash": "c85f1fcaf860bd1b77df0536edc422f9",
-    "modification_time": 1756088053.2113287,
-    "processed_at": "2025-08-29 12:50:01.320839"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_04_07_2024-04_07_2024_(00_42_39_109).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 7\\NewEleven_Dashboard Products Group by ASIN_04_07_2024-04_07_2024_(00_42_39_109).xlsx",
-    "date": "2024-07-04",
-    "hash": "65cb8bbfce256b22d8418e3f8737ebc9",
-    "modification_time": 1756088053.2123299,
-    "processed_at": "2025-08-29 12:50:01.350213"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_05_07_2024-05_07_2024_(00_46_47_707).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 7\\NewEleven_Dashboard Products Group by ASIN_05_07_2024-05_07_2024_(00_46_47_707).xlsx",
-    "date": "2024-07-05",
-    "hash": "ee10597a7940a991501b746e84b6d27c",
-    "modification_time": 1756088053.2123299,
-    "processed_at": "2025-08-29 12:50:01.378707"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_06_07_2024-06_07_2024_(00_47_10_569).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 7\\NewEleven_Dashboard Products Group by ASIN_06_07_2024-06_07_2024_(00_47_10_569).xlsx",
-    "date": "2024-07-06",
-    "hash": "8bbeee3a3f1f75a7c1981f9faa7b1d9f",
-    "modification_time": 1756088053.2133296,
-    "processed_at": "2025-08-29 12:50:01.413388"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_07_07_2024-07_07_2024_(00_49_24_641).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 7\\NewEleven_Dashboard Products Group by ASIN_07_07_2024-07_07_2024_(00_49_24_641).xlsx",
-    "date": "2024-07-07",
-    "hash": "81fe1bbcefab53955072804fe378c59e",
-    "modification_time": 1756088053.2133296,
-    "processed_at": "2025-08-29 12:50:01.441307"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_08_07_2024-08_07_2024_(00_49_51_442).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 7\\NewEleven_Dashboard Products Group by ASIN_08_07_2024-08_07_2024_(00_49_51_442).xlsx",
-    "date": "2024-07-08",
-    "hash": "fc7aa026b7c9c97421f3d196e7b6f722",
-    "modification_time": 1756088053.2133296,
-    "processed_at": "2025-08-29 12:50:01.480121"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_09_07_2024-09_07_2024_(00_50_14_227).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 7\\NewEleven_Dashboard Products Group by ASIN_09_07_2024-09_07_2024_(00_50_14_227).xlsx",
-    "date": "2024-07-09",
-    "hash": "cce0f64c45562c8aa27dd86e05d0bf7d",
-    "modification_time": 1756088053.2146158,
-    "processed_at": "2025-08-29 12:50:01.512686"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_10_07_2024-10_07_2024_(00_50_39_645).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 7\\NewEleven_Dashboard Products Group by ASIN_10_07_2024-10_07_2024_(00_50_39_645).xlsx",
-    "date": "2024-07-10",
-    "hash": "7679d917d55c9bdc001cf6ee6890443c",
-    "modification_time": 1756088053.2146158,
-    "processed_at": "2025-08-29 12:50:01.543869"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_11_07_2024-11_07_2024_(00_51_04_582).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 7\\NewEleven_Dashboard Products Group by ASIN_11_07_2024-11_07_2024_(00_51_04_582).xlsx",
-    "date": "2024-07-11",
-    "hash": "72e3c78c46b813cd7cf1eaf3268633a6",
-    "modification_time": 1756088053.2156148,
-    "processed_at": "2025-08-29 12:50:01.572797"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_12_07_2024-12_07_2024_(00_51_33_560).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 7\\NewEleven_Dashboard Products Group by ASIN_12_07_2024-12_07_2024_(00_51_33_560).xlsx",
-    "date": "2024-07-12",
-    "hash": "0974e96041b791f44b14394c0f04e35a",
-    "modification_time": 1756088053.2156148,
-    "processed_at": "2025-08-29 12:50:01.602823"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_13_07_2024-13_07_2024_(00_54_15_803).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 7\\NewEleven_Dashboard Products Group by ASIN_13_07_2024-13_07_2024_(00_54_15_803).xlsx",
-    "date": "2024-07-13",
-    "hash": "48b1629b8ecb020b93eb92ae6b8ae645",
-    "modification_time": 1756088053.2166145,
-    "processed_at": "2025-08-29 12:50:01.636332"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_14_07_2024-14_07_2024_(00_54_44_832).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 7\\NewEleven_Dashboard Products Group by ASIN_14_07_2024-14_07_2024_(00_54_44_832).xlsx",
-    "date": "2024-07-14",
-    "hash": "6e50f16b769323a57f002884bd03a8ff",
-    "modification_time": 1756088053.2166145,
-    "processed_at": "2025-08-29 12:50:01.667123"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_15_07_2024-15_07_2024_(00_55_35_195).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 7\\NewEleven_Dashboard Products Group by ASIN_15_07_2024-15_07_2024_(00_55_35_195).xlsx",
-    "date": "2024-07-15",
-    "hash": "14bee49822e0ce10d0b29522ee05a36a",
-    "modification_time": 1756088053.2176163,
-    "processed_at": "2025-08-29 12:50:01.696666"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_16_07_2024-16_07_2024_(00_56_10_321).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 7\\NewEleven_Dashboard Products Group by ASIN_16_07_2024-16_07_2024_(00_56_10_321).xlsx",
-    "date": "2024-07-16",
-    "hash": "d231e5fa481354c2d92be690fe821067",
-    "modification_time": 1756088053.218619,
-    "processed_at": "2025-08-29 12:50:01.732770"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_17_07_2024-17_07_2024_(00_56_46_823).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 7\\NewEleven_Dashboard Products Group by ASIN_17_07_2024-17_07_2024_(00_56_46_823).xlsx",
-    "date": "2024-07-17",
-    "hash": "84c39ecdab512c11d584a473b187afcd",
-    "modification_time": 1756088053.218619,
-    "processed_at": "2025-08-29 12:50:01.764862"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_18_07_2024-18_07_2024_(00_57_19_392).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 7\\NewEleven_Dashboard Products Group by ASIN_18_07_2024-18_07_2024_(00_57_19_392).xlsx",
-    "date": "2024-07-18",
-    "hash": "4f989e89dce2976f68d01e48cdb3b148",
-    "modification_time": 1756088053.218619,
-    "processed_at": "2025-08-29 12:50:01.796494"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_19_07_2024-19_07_2024_(01_00_36_697).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 7\\NewEleven_Dashboard Products Group by ASIN_19_07_2024-19_07_2024_(01_00_36_697).xlsx",
-    "date": "2024-07-19",
-    "hash": "7971e55afc31638e65fccef8abb9a8f0",
-    "modification_time": 1756088053.219617,
-    "processed_at": "2025-08-29 12:50:01.833623"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_20_07_2024-20_07_2024_(01_02_48_291).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 7\\NewEleven_Dashboard Products Group by ASIN_20_07_2024-20_07_2024_(01_02_48_291).xlsx",
-    "date": "2024-07-20",
-    "hash": "5880da5e5286e4aa707b05c265ca8c8b",
-    "modification_time": 1756088053.2204745,
-    "processed_at": "2025-08-29 12:50:01.862814"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_21_07_2024-21_07_2024_(01_03_20_839).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 7\\NewEleven_Dashboard Products Group by ASIN_21_07_2024-21_07_2024_(01_03_20_839).xlsx",
-    "date": "2024-07-21",
-    "hash": "88abbf04e01f42b908869702c8730a87",
-    "modification_time": 1756088053.2204745,
-    "processed_at": "2025-08-29 12:50:01.890476"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_22_07_2024-22_07_2024_(01_03_48_869).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 7\\NewEleven_Dashboard Products Group by ASIN_22_07_2024-22_07_2024_(01_03_48_869).xlsx",
-    "date": "2024-07-22",
-    "hash": "8f400e1dc14b754ae62f97cbd35776b9",
-    "modification_time": 1756088053.2214794,
-    "processed_at": "2025-08-29 12:50:01.922080"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_23_07_2024-23_07_2024_(01_04_28_208).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 7\\NewEleven_Dashboard Products Group by ASIN_23_07_2024-23_07_2024_(01_04_28_208).xlsx",
-    "date": "2024-07-23",
-    "hash": "112a1d774c1aa66f151aa0b5a8040a7f",
-    "modification_time": 1756088053.2214794,
-    "processed_at": "2025-08-29 12:50:01.955890"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_24_07_2024-24_07_2024_(01_05_02_509).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 7\\NewEleven_Dashboard Products Group by ASIN_24_07_2024-24_07_2024_(01_05_02_509).xlsx",
-    "date": "2024-07-24",
-    "hash": "6981abc9546fdb83d789b3c424d8e96e",
-    "modification_time": 1756088053.2224789,
-    "processed_at": "2025-08-29 12:50:01.986631"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_25_07_2024-25_07_2024_(01_05_37_752).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 7\\NewEleven_Dashboard Products Group by ASIN_25_07_2024-25_07_2024_(01_05_37_752).xlsx",
-    "date": "2024-07-25",
-    "hash": "3186d7345a336ed5969acbc5d384e386",
-    "modification_time": 1756088053.2224789,
-    "processed_at": "2025-08-29 12:50:02.016396"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_26_07_2024-26_07_2024_(01_06_17_339).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 7\\NewEleven_Dashboard Products Group by ASIN_26_07_2024-26_07_2024_(01_06_17_339).xlsx",
-    "date": "2024-07-26",
-    "hash": "d94f8b9726a8ce428b3a483745d64201",
-    "modification_time": 1756088053.2234788,
-    "processed_at": "2025-08-29 12:50:02.045547"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_27_07_2024-27_07_2024_(01_06_45_313).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 7\\NewEleven_Dashboard Products Group by ASIN_27_07_2024-27_07_2024_(01_06_45_313).xlsx",
-    "date": "2024-07-27",
-    "hash": "115635bec398cfe12854b309b092b0a3",
-    "modification_time": 1756088053.2234788,
-    "processed_at": "2025-08-29 12:50:02.072732"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_28_07_2024-28_07_2024_(01_07_12_623).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 7\\NewEleven_Dashboard Products Group by ASIN_28_07_2024-28_07_2024_(01_07_12_623).xlsx",
-    "date": "2024-07-28",
-    "hash": "56a666066292568708738911c410ff5c",
-    "modification_time": 1756088053.2245648,
-    "processed_at": "2025-08-29 12:50:02.103076"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_29_07_2024-29_07_2024_(01_07_39_520).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 7\\NewEleven_Dashboard Products Group by ASIN_29_07_2024-29_07_2024_(01_07_39_520).xlsx",
-    "date": "2024-07-29",
-    "hash": "6d5c4f6f6bee135abbddd42e73e69d20",
-    "modification_time": 1756088053.2251527,
-    "processed_at": "2025-08-29 12:50:02.133942"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_30_07_2024-30_07_2024_(01_08_16_675).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 7\\NewEleven_Dashboard Products Group by ASIN_30_07_2024-30_07_2024_(01_08_16_675).xlsx",
-    "date": "2024-07-30",
-    "hash": "6aaa200775f1791505530960fa6cd2ec",
-    "modification_time": 1756088053.2251527,
-    "processed_at": "2025-08-29 12:50:02.165127"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_31_07_2024-31_07_2024_(01_08_42_892).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 7\\NewEleven_Dashboard Products Group by ASIN_31_07_2024-31_07_2024_(01_08_42_892).xlsx",
-    "date": "2024-07-31",
-    "hash": "e3196af6798c1a8cd49d6df9b25aa07b",
-    "modification_time": 1756088053.2261577,
-    "processed_at": "2025-08-29 12:50:02.200993"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_01_08_2024-01_08_2024_(01_12_58_583).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 8\\NewEleven_Dashboard Products Group by ASIN_01_08_2024-01_08_2024_(01_12_58_583).xlsx",
-    "date": "2024-08-01",
-    "hash": "b265c182363640dfde26132d73132f74",
-    "modification_time": 1756088053.2261577,
-    "processed_at": "2025-08-29 12:50:02.231203"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_02_08_2024-02_08_2024_(01_13_28_188).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 8\\NewEleven_Dashboard Products Group by ASIN_02_08_2024-02_08_2024_(01_13_28_188).xlsx",
-    "date": "2024-08-02",
-    "hash": "4e3728222cbe8b025d8c049c4f2b0089",
-    "modification_time": 1756088053.227158,
-    "processed_at": "2025-08-29 12:50:02.263346"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_03_08_2024-03_08_2024_(01_13_51_836).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 8\\NewEleven_Dashboard Products Group by ASIN_03_08_2024-03_08_2024_(01_13_51_836).xlsx",
-    "date": "2024-08-03",
-    "hash": "8fbe2550096818b800bdbf0e08083011",
-    "modification_time": 1756088053.227158,
-    "processed_at": "2025-08-29 12:50:02.293681"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_04_08_2024-04_08_2024_(01_14_16_590).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 8\\NewEleven_Dashboard Products Group by ASIN_04_08_2024-04_08_2024_(01_14_16_590).xlsx",
-    "date": "2024-08-04",
-    "hash": "abf7c688edb2d4e71884b9af2fa9f1b2",
-    "modification_time": 1756088053.2281578,
-    "processed_at": "2025-08-29 12:50:02.322593"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_05_08_2024-05_08_2024_(01_14_36_960).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 8\\NewEleven_Dashboard Products Group by ASIN_05_08_2024-05_08_2024_(01_14_36_960).xlsx",
-    "date": "2024-08-05",
-    "hash": "ad60fd3c026e5b2b3be56fe3c1dd7a79",
-    "modification_time": 1756088053.2281578,
-    "processed_at": "2025-08-29 12:50:02.353679"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_06_08_2024-06_08_2024_(01_14_59_930).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 8\\NewEleven_Dashboard Products Group by ASIN_06_08_2024-06_08_2024_(01_14_59_930).xlsx",
-    "date": "2024-08-06",
-    "hash": "0e56ea535f1c7fd64b66df2a359680ed",
-    "modification_time": 1756088053.2291582,
-    "processed_at": "2025-08-29 12:50:02.390382"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_07_08_2024-07_08_2024_(01_15_19_947).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 8\\NewEleven_Dashboard Products Group by ASIN_07_08_2024-07_08_2024_(01_15_19_947).xlsx",
-    "date": "2024-08-07",
-    "hash": "1d6405e27a9c4fca08c6733db916ccc3",
-    "modification_time": 1756088053.2291582,
-    "processed_at": "2025-08-29 12:50:02.422014"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_08_08_2024-08_08_2024_(01_15_41_375).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 8\\NewEleven_Dashboard Products Group by ASIN_08_08_2024-08_08_2024_(01_15_41_375).xlsx",
-    "date": "2024-08-08",
-    "hash": "74b9f0cab144dd211792e3dda5bb5201",
-    "modification_time": 1756088053.2301576,
-    "processed_at": "2025-08-29 12:50:02.451716"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_09_08_2024-09_08_2024_(01_16_19_862).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 8\\NewEleven_Dashboard Products Group by ASIN_09_08_2024-09_08_2024_(01_16_19_862).xlsx",
-    "date": "2024-08-09",
-    "hash": "1f7c471ec03beebbe2a0a93cd32c6399",
-    "modification_time": 1756088053.2301576,
-    "processed_at": "2025-08-29 12:50:02.483254"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_10_08_2024-10_08_2024_(01_17_04_111).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 8\\NewEleven_Dashboard Products Group by ASIN_10_08_2024-10_08_2024_(01_17_04_111).xlsx",
-    "date": "2024-08-10",
-    "hash": "433fddfb232a966392df862c2ff28e27",
-    "modification_time": 1756088053.2312825,
-    "processed_at": "2025-08-29 12:50:02.512644"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_11_08_2024-11_08_2024_(01_17_34_629).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 8\\NewEleven_Dashboard Products Group by ASIN_11_08_2024-11_08_2024_(01_17_34_629).xlsx",
-    "date": "2024-08-11",
-    "hash": "203e76b8215c21d42d8a953e1e710b07",
-    "modification_time": 1756088053.2312825,
-    "processed_at": "2025-08-29 12:50:02.549735"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_12_08_2024-12_08_2024_(01_17_56_531).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 8\\NewEleven_Dashboard Products Group by ASIN_12_08_2024-12_08_2024_(01_17_56_531).xlsx",
-    "date": "2024-08-12",
-    "hash": "bc8ffebbd377442d309026a69f6d2b1e",
-    "modification_time": 1756088053.2322855,
-    "processed_at": "2025-08-29 12:50:02.578742"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_13_08_2024-13_08_2024_(01_18_24_108).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 8\\NewEleven_Dashboard Products Group by ASIN_13_08_2024-13_08_2024_(01_18_24_108).xlsx",
-    "date": "2024-08-13",
-    "hash": "4835ae6037bd8c3f757bcfcb295d08c1",
-    "modification_time": 1756088053.2322855,
-    "processed_at": "2025-08-29 12:50:02.611313"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_14_08_2024-14_08_2024_(01_19_02_643).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 8\\NewEleven_Dashboard Products Group by ASIN_14_08_2024-14_08_2024_(01_19_02_643).xlsx",
-    "date": "2024-08-14",
-    "hash": "e9e6fff56273c14cc7d655f46b85bffd",
-    "modification_time": 1756088053.2332854,
-    "processed_at": "2025-08-29 12:50:02.643945"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_15_08_2024-15_08_2024_(01_19_25_621).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 8\\NewEleven_Dashboard Products Group by ASIN_15_08_2024-15_08_2024_(01_19_25_621).xlsx",
-    "date": "2024-08-15",
-    "hash": "07451f7aeb31afc9108ebcbc26e54429",
-    "modification_time": 1756088053.2332854,
-    "processed_at": "2025-08-29 12:50:02.675405"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_16_08_2024-16_08_2024_(01_19_45_349).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 8\\NewEleven_Dashboard Products Group by ASIN_16_08_2024-16_08_2024_(01_19_45_349).xlsx",
-    "date": "2024-08-16",
-    "hash": "ad066780c91839d3031c4a1f3023242d",
-    "modification_time": 1756088053.2342856,
-    "processed_at": "2025-08-29 12:50:02.704777"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_17_08_2024-17_08_2024_(01_20_06_820).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 8\\NewEleven_Dashboard Products Group by ASIN_17_08_2024-17_08_2024_(01_20_06_820).xlsx",
-    "date": "2024-08-17",
-    "hash": "5a172b60a35411642a7cfa78b7866b75",
-    "modification_time": 1756088053.2342856,
-    "processed_at": "2025-08-29 12:50:02.734520"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_18_08_2024-18_08_2024_(01_20_32_267).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 8\\NewEleven_Dashboard Products Group by ASIN_18_08_2024-18_08_2024_(01_20_32_267).xlsx",
-    "date": "2024-08-18",
-    "hash": "0fad435ec0f40f0a6cabfb790c805484",
-    "modification_time": 1756088053.2342856,
-    "processed_at": "2025-08-29 12:50:02.768424"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_19_08_2024-19_08_2024_(01_21_06_697).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 8\\NewEleven_Dashboard Products Group by ASIN_19_08_2024-19_08_2024_(01_21_06_697).xlsx",
-    "date": "2024-08-19",
-    "hash": "d0133130e527c44af8699edc62c7ba74",
-    "modification_time": 1756088053.2352853,
-    "processed_at": "2025-08-29 12:50:02.798279"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_20_08_2024-20_08_2024_(01_21_31_624).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 8\\NewEleven_Dashboard Products Group by ASIN_20_08_2024-20_08_2024_(01_21_31_624).xlsx",
-    "date": "2024-08-20",
-    "hash": "d508db18bfc97fcc0ebe7aedf2d6b151",
-    "modification_time": 1756088053.2362833,
-    "processed_at": "2025-08-29 12:50:02.830609"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_21_08_2024-21_08_2024_(01_22_53_789).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 8\\NewEleven_Dashboard Products Group by ASIN_21_08_2024-21_08_2024_(01_22_53_789).xlsx",
-    "date": "2024-08-21",
-    "hash": "68e29d37fa0efbcc1620ea2e5faeb417",
-    "modification_time": 1756088053.2362833,
-    "processed_at": "2025-08-29 12:50:02.861639"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_22_08_2024-22_08_2024_(01_23_21_922).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 8\\NewEleven_Dashboard Products Group by ASIN_22_08_2024-22_08_2024_(01_23_21_922).xlsx",
-    "date": "2024-08-22",
-    "hash": "bfdd60499079db85720ed59c3db49e92",
-    "modification_time": 1756088053.2362833,
-    "processed_at": "2025-08-29 12:50:02.893263"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_23_08_2024-23_08_2024_(01_30_03_475).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 8\\NewEleven_Dashboard Products Group by ASIN_23_08_2024-23_08_2024_(01_30_03_475).xlsx",
-    "date": "2024-08-23",
-    "hash": "c654afed444b4ef724cb612f78574ad4",
-    "modification_time": 1756088053.2372859,
-    "processed_at": "2025-08-29 12:50:02.922531"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_24_08_2024-24_08_2024_(01_30_59_874).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 8\\NewEleven_Dashboard Products Group by ASIN_24_08_2024-24_08_2024_(01_30_59_874).xlsx",
-    "date": "2024-08-24",
-    "hash": "ca5c2084097a94720338921997f5ef32",
-    "modification_time": 1756088053.2372859,
-    "processed_at": "2025-08-29 12:50:02.953308"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_25_08_2024-25_08_2024_(01_31_30_123).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 8\\NewEleven_Dashboard Products Group by ASIN_25_08_2024-25_08_2024_(01_31_30_123).xlsx",
-    "date": "2024-08-25",
-    "hash": "47d82800332d89de10a004c16f3d76f2",
-    "modification_time": 1756088053.2382846,
-    "processed_at": "2025-08-29 12:50:02.982629"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_26_08_2024-26_08_2024_(01_32_08_215).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 8\\NewEleven_Dashboard Products Group by ASIN_26_08_2024-26_08_2024_(01_32_08_215).xlsx",
-    "date": "2024-08-26",
-    "hash": "2bcd34c5c3d57dc42eb12eb85047e42f",
-    "modification_time": 1756088053.2382846,
-    "processed_at": "2025-08-29 12:50:03.012001"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_27_08_2024-27_08_2024_(01_32_50_404).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 8\\NewEleven_Dashboard Products Group by ASIN_27_08_2024-27_08_2024_(01_32_50_404).xlsx",
-    "date": "2024-08-27",
-    "hash": "5468633970c8dc8e88bcedb135d9d867",
-    "modification_time": 1756088053.2392855,
-    "processed_at": "2025-08-29 12:50:03.044625"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_28_08_2024-28_08_2024_(01_33_24_389).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 8\\NewEleven_Dashboard Products Group by ASIN_28_08_2024-28_08_2024_(01_33_24_389).xlsx",
-    "date": "2024-08-28",
-    "hash": "16fc758b5747edc6d3b55d9f0fe8ad04",
-    "modification_time": 1756088053.2392855,
-    "processed_at": "2025-08-29 12:50:03.076210"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_29_08_2024-29_08_2024_(01_34_08_433).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 8\\NewEleven_Dashboard Products Group by ASIN_29_08_2024-29_08_2024_(01_34_08_433).xlsx",
-    "date": "2024-08-29",
-    "hash": "0a94b0418c032ea8cd09c732bc0c04c0",
-    "modification_time": 1756088053.2402818,
-    "processed_at": "2025-08-29 12:50:03.105411"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_30_08_2024-30_08_2024_(01_36_58_327).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 8\\NewEleven_Dashboard Products Group by ASIN_30_08_2024-30_08_2024_(01_36_58_327).xlsx",
-    "date": "2024-08-30",
-    "hash": "b0d8cf3c0ffdf40382656d3f7ee6a157",
-    "modification_time": 1756088053.2402818,
-    "processed_at": "2025-08-29 12:50:03.135230"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_31_08_2024-31_08_2024_(01_38_11_464).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 8\\NewEleven_Dashboard Products Group by ASIN_31_08_2024-31_08_2024_(01_38_11_464).xlsx",
-    "date": "2024-08-31",
-    "hash": "6364f3da6c4d6078dfb4b1aa6b6c114b",
-    "modification_time": 1756088053.241282,
-    "processed_at": "2025-08-29 12:50:03.163095"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_01_09_2024-01_09_2024_(01_42_49_217).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 9\\NewEleven_Dashboard Products Group by ASIN_01_09_2024-01_09_2024_(01_42_49_217).xlsx",
-    "date": "2024-09-01",
-    "hash": "66de9c7dee3274aaf03ec5ad4fd0ca51",
-    "modification_time": 1756088053.241282,
-    "processed_at": "2025-08-29 12:50:03.193622"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_02_09_2024-02_09_2024_(01_43_47_551).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 9\\NewEleven_Dashboard Products Group by ASIN_02_09_2024-02_09_2024_(01_43_47_551).xlsx",
-    "date": "2024-09-02",
-    "hash": "890e99961f3acc6902cd1a3501c1a247",
-    "modification_time": 1756088053.242282,
-    "processed_at": "2025-08-29 12:50:03.222139"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_03_09_2024-03_09_2024_(01_44_09_703).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 9\\NewEleven_Dashboard Products Group by ASIN_03_09_2024-03_09_2024_(01_44_09_703).xlsx",
-    "date": "2024-09-03",
-    "hash": "28b30683c81f46e5c010ffc0dd9119a2",
-    "modification_time": 1756088053.243283,
-    "processed_at": "2025-08-29 12:50:03.253382"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_04_09_2024-04_09_2024_(01_44_49_193).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 9\\NewEleven_Dashboard Products Group by ASIN_04_09_2024-04_09_2024_(01_44_49_193).xlsx",
-    "date": "2024-09-04",
-    "hash": "ce836e6888187d88a9426b0b23b6e282",
-    "modification_time": 1756088053.243283,
-    "processed_at": "2025-08-29 12:50:03.284711"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_05_09_2024-05_09_2024_(01_45_19_508).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 9\\NewEleven_Dashboard Products Group by ASIN_05_09_2024-05_09_2024_(01_45_19_508).xlsx",
-    "date": "2024-09-05",
-    "hash": "83abcdfe30281926757b27f2d9429989",
-    "modification_time": 1756088053.2442818,
-    "processed_at": "2025-08-29 12:50:03.313809"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_06_09_2024-06_09_2024_(01_45_40_679).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 9\\NewEleven_Dashboard Products Group by ASIN_06_09_2024-06_09_2024_(01_45_40_679).xlsx",
-    "date": "2024-09-06",
-    "hash": "50df925bf8a24330e50a0756e29237e8",
-    "modification_time": 1756088053.2442818,
-    "processed_at": "2025-08-29 12:50:03.342564"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_07_09_2024-07_09_2024_(01_46_39_693).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 9\\NewEleven_Dashboard Products Group by ASIN_07_09_2024-07_09_2024_(01_46_39_693).xlsx",
-    "date": "2024-09-07",
-    "hash": "6e3d3ee8fb7615de7faaebe2b178e2a8",
-    "modification_time": 1756088053.2452812,
-    "processed_at": "2025-08-29 12:50:03.374834"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_08_09_2024-08_09_2024_(01_47_37_703).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 9\\NewEleven_Dashboard Products Group by ASIN_08_09_2024-08_09_2024_(01_47_37_703).xlsx",
-    "date": "2024-09-08",
-    "hash": "2fe033361e989063a933698016211ef3",
-    "modification_time": 1756088053.2452812,
-    "processed_at": "2025-08-29 12:50:03.402804"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_09_09_2024-09_09_2024_(01_48_06_832).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 9\\NewEleven_Dashboard Products Group by ASIN_09_09_2024-09_09_2024_(01_48_06_832).xlsx",
-    "date": "2024-09-09",
-    "hash": "aa25af43727d8d69f7712e16336b84e7",
-    "modification_time": 1756088053.2462814,
-    "processed_at": "2025-08-29 12:50:03.431974"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_10_09_2024-10_09_2024_(01_48_35_746).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 9\\NewEleven_Dashboard Products Group by ASIN_10_09_2024-10_09_2024_(01_48_35_746).xlsx",
-    "date": "2024-09-10",
-    "hash": "c89fc03d23dad6a2f33bca2714436e6a",
-    "modification_time": 1756088053.246952,
-    "processed_at": "2025-08-29 12:50:03.461945"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_11_09_2024-11_09_2024_(01_49_02_292).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 9\\NewEleven_Dashboard Products Group by ASIN_11_09_2024-11_09_2024_(01_49_02_292).xlsx",
-    "date": "2024-09-11",
-    "hash": "c7382613923cfbe5a7e9445a852ca5f4",
-    "modification_time": 1756088053.246952,
-    "processed_at": "2025-08-29 12:50:03.491715"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_12_09_2024-12_09_2024_(01_51_10_428).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 9\\NewEleven_Dashboard Products Group by ASIN_12_09_2024-12_09_2024_(01_51_10_428).xlsx",
-    "date": "2024-09-12",
-    "hash": "b38fb62f7b7b743b822b792f2a0fcb37",
-    "modification_time": 1756088053.2479587,
-    "processed_at": "2025-08-29 12:50:03.520960"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_13_09_2024-13_09_2024_(01_57_40_814).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 9\\NewEleven_Dashboard Products Group by ASIN_13_09_2024-13_09_2024_(01_57_40_814).xlsx",
-    "date": "2024-09-13",
-    "hash": "0dc72b0f59a6dbceda460be64d214778",
-    "modification_time": 1756088053.2489586,
-    "processed_at": "2025-08-29 12:50:03.551319"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_14_09_2024-14_09_2024_(01_58_05_547).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 9\\NewEleven_Dashboard Products Group by ASIN_14_09_2024-14_09_2024_(01_58_05_547).xlsx",
-    "date": "2024-09-14",
-    "hash": "f0a04df86a75efc7cd5c36b80bd3ed66",
-    "modification_time": 1756088053.2489586,
-    "processed_at": "2025-08-29 12:50:03.580344"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_15_09_2024-15_09_2024_(01_58_54_688).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 9\\NewEleven_Dashboard Products Group by ASIN_15_09_2024-15_09_2024_(01_58_54_688).xlsx",
-    "date": "2024-09-15",
-    "hash": "dc48a84c8cee5da74826a120a0641bec",
-    "modification_time": 1756088053.249958,
-    "processed_at": "2025-08-29 12:50:03.612036"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_16_09_2024-16_09_2024_(01_59_42_893).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 9\\NewEleven_Dashboard Products Group by ASIN_16_09_2024-16_09_2024_(01_59_42_893).xlsx",
-    "date": "2024-09-16",
-    "hash": "1b9d6aa06475235424738c4e6220af2c",
-    "modification_time": 1756088053.249958,
-    "processed_at": "2025-08-29 12:50:03.643343"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_17_09_2024-17_09_2024_(02_05_43_801).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 9\\NewEleven_Dashboard Products Group by ASIN_17_09_2024-17_09_2024_(02_05_43_801).xlsx",
-    "date": "2024-09-17",
-    "hash": "19a7f6d6cee37609e2cd304e55ff6ced",
-    "modification_time": 1756088053.2509584,
-    "processed_at": "2025-08-29 12:50:03.673700"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_18_09_2024-18_09_2024_(02_06_57_412).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 9\\NewEleven_Dashboard Products Group by ASIN_18_09_2024-18_09_2024_(02_06_57_412).xlsx",
-    "date": "2024-09-18",
-    "hash": "32c725d5cac4ffaa796dee486e929e53",
-    "modification_time": 1756088053.2509584,
-    "processed_at": "2025-08-29 12:50:03.704681"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_19_09_2024-19_09_2024_(02_07_31_106).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 9\\NewEleven_Dashboard Products Group by ASIN_19_09_2024-19_09_2024_(02_07_31_106).xlsx",
-    "date": "2024-09-19",
-    "hash": "0e79a6df547c8fd442c7930f943af375",
-    "modification_time": 1756088053.2519584,
-    "processed_at": "2025-08-29 12:50:03.734883"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_20_09_2024-20_09_2024_(02_08_22_912).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 9\\NewEleven_Dashboard Products Group by ASIN_20_09_2024-20_09_2024_(02_08_22_912).xlsx",
-    "date": "2024-09-20",
-    "hash": "ba272f0d8a3e11110b3088b1f9bc2dc5",
-    "modification_time": 1756088053.252957,
-    "processed_at": "2025-08-29 12:50:03.766167"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_21_09_2024-21_09_2024_(02_08_48_353).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 9\\NewEleven_Dashboard Products Group by ASIN_21_09_2024-21_09_2024_(02_08_48_353).xlsx",
-    "date": "2024-09-21",
-    "hash": "2f4667fef6401dfcc78f5c0cf3029b36",
-    "modification_time": 1756088053.252957,
-    "processed_at": "2025-08-29 12:50:03.796967"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_22_09_2024-22_09_2024_(02_10_34_903).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 9\\NewEleven_Dashboard Products Group by ASIN_22_09_2024-22_09_2024_(02_10_34_903).xlsx",
-    "date": "2024-09-22",
-    "hash": "c506e294a8afad1b6865e7a356e51e9d",
-    "modification_time": 1756088053.2539582,
-    "processed_at": "2025-08-29 12:50:03.827947"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_23_09_2024-23_09_2024_(02_11_12_380).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 9\\NewEleven_Dashboard Products Group by ASIN_23_09_2024-23_09_2024_(02_11_12_380).xlsx",
-    "date": "2024-09-23",
-    "hash": "ff8e86788fed4ab2b584e263f4229cba",
-    "modification_time": 1756088053.2539582,
-    "processed_at": "2025-08-29 12:50:03.861869"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_24_09_2024-24_09_2024_(02_14_38_181).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 9\\NewEleven_Dashboard Products Group by ASIN_24_09_2024-24_09_2024_(02_14_38_181).xlsx",
-    "date": "2024-09-24",
-    "hash": "b5a9c76a6601c33fd4d05c8739576b21",
-    "modification_time": 1756088053.2549577,
-    "processed_at": "2025-08-29 12:50:03.895272"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_25_09_2024-25_09_2024_(02_15_10_578).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 9\\NewEleven_Dashboard Products Group by ASIN_25_09_2024-25_09_2024_(02_15_10_578).xlsx",
-    "date": "2024-09-25",
-    "hash": "015f5eba272a12d55e92dba72db86473",
-    "modification_time": 1756088053.2549577,
-    "processed_at": "2025-08-29 12:50:03.927588"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_26_09_2024-26_09_2024_(02_15_43_716).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 9\\NewEleven_Dashboard Products Group by ASIN_26_09_2024-26_09_2024_(02_15_43_716).xlsx",
-    "date": "2024-09-26",
-    "hash": "1d89fd3e9364078fe06baeb3d07f7ed6",
-    "modification_time": 1756088053.2559576,
-    "processed_at": "2025-08-29 12:50:03.966981"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_27_09_2024-27_09_2024_(02_16_04_563).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 9\\NewEleven_Dashboard Products Group by ASIN_27_09_2024-27_09_2024_(02_16_04_563).xlsx",
-    "date": "2024-09-27",
-    "hash": "6b163e2724742707f065abd94849bc0f",
-    "modification_time": 1756088053.2559576,
-    "processed_at": "2025-08-29 12:50:04.003232"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_28_09_2024-28_09_2024_(02_19_29_908).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 9\\NewEleven_Dashboard Products Group by ASIN_28_09_2024-28_09_2024_(02_19_29_908).xlsx",
-    "date": "2024-09-28",
-    "hash": "9244f4d3b1b1e5a62d5bb11138ebd011",
-    "modification_time": 1756088053.2569573,
-    "processed_at": "2025-08-29 12:50:04.037836"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_29_09_2024-29_09_2024_(02_19_52_541).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 9\\NewEleven_Dashboard Products Group by ASIN_29_09_2024-29_09_2024_(02_19_52_541).xlsx",
-    "date": "2024-09-29",
-    "hash": "d5b1f67ed92ba534b59096134300bba0",
-    "modification_time": 1756088053.2579572,
-    "processed_at": "2025-08-29 12:50:04.071985"
-  },
-  "NewEleven_Dashboard Products Group by ASIN_30_09_2024-30_09_2024_(02_20_25_151).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB\\H2_2024_US\\Tháng 9\\NewEleven_Dashboard Products Group by ASIN_30_09_2024-30_09_2024_(02_20_25_151).xlsx",
-    "date": "2024-09-30",
-    "hash": "2d296b808665c60e459ce63a32ae226d",
-    "modification_time": 1756088053.2579572,
-    "processed_at": "2025-08-29 12:50:04.114243"
-  },
   "NewEleven_Dashboard Products Group by ASIN_01_07_2025-01_07_2025_(02_16_59_866).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M7\\NewEleven_Dashboard Products Group by ASIN_01_07_2025-01_07_2025_(02_16_59_866).xlsx",
     "date": "2025-07-01",
     "hash": "84420fb10dfb0ab6a33b01da90d6da82",
     "modification_time": 1755575096.6198573,
-    "processed_at": "2025-09-03 09:35:40.085532"
+    "processed_at": "2025-09-03 10:37:26.219223"
   },
   "NewEleven_Dashboard Products Group by ASIN_02_07_2025-02_07_2025_(02_17_19_401).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M7\\NewEleven_Dashboard Products Group by ASIN_02_07_2025-02_07_2025_(02_17_19_401).xlsx",
     "date": "2025-07-02",
     "hash": "0e10de010c828ac383902089a928a8ca",
     "modification_time": 1755575096.620433,
-    "processed_at": "2025-09-03 09:35:40.123765"
+    "processed_at": "2025-09-03 10:37:26.242567"
   },
   "NewEleven_Dashboard Products Group by ASIN_03_07_2025-03_07_2025_(02_17_35_203).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M7\\NewEleven_Dashboard Products Group by ASIN_03_07_2025-03_07_2025_(02_17_35_203).xlsx",
     "date": "2025-07-03",
     "hash": "c0e66a7b368c9eac7be8f0890052e294",
     "modification_time": 1755575096.620433,
-    "processed_at": "2025-09-03 09:35:40.159901"
+    "processed_at": "2025-09-03 10:37:26.266522"
   },
   "NewEleven_Dashboard Products Group by ASIN_04_07_2025-04_07_2025_(02_17_52_472).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M7\\NewEleven_Dashboard Products Group by ASIN_04_07_2025-04_07_2025_(02_17_52_472).xlsx",
     "date": "2025-07-04",
     "hash": "641cd03d5f8f5818874dd88d6b3decd4",
     "modification_time": 1755575096.621441,
-    "processed_at": "2025-09-03 09:35:40.195705"
+    "processed_at": "2025-09-03 10:37:26.288028"
   },
   "NewEleven_Dashboard Products Group by ASIN_05_07_2025-05_07_2025_(02_18_20_680).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M7\\NewEleven_Dashboard Products Group by ASIN_05_07_2025-05_07_2025_(02_18_20_680).xlsx",
     "date": "2025-07-05",
     "hash": "67f1385bba9d3a19811c5aee82cfec10",
     "modification_time": 1755575096.621441,
-    "processed_at": "2025-09-03 09:35:40.227232"
+    "processed_at": "2025-09-03 10:37:26.311061"
   },
   "NewEleven_Dashboard Products Group by ASIN_06_07_2025-06_07_2025_(02_18_35_117).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M7\\NewEleven_Dashboard Products Group by ASIN_06_07_2025-06_07_2025_(02_18_35_117).xlsx",
     "date": "2025-07-06",
     "hash": "83840d395df8d28852e7556cf66b3d43",
     "modification_time": 1755575096.62244,
-    "processed_at": "2025-09-03 09:35:40.273741"
+    "processed_at": "2025-09-03 10:37:26.342145"
   },
   "NewEleven_Dashboard Products Group by ASIN_07_07_2025-07_07_2025_(02_18_54_289).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M7\\NewEleven_Dashboard Products Group by ASIN_07_07_2025-07_07_2025_(02_18_54_289).xlsx",
     "date": "2025-07-07",
     "hash": "6b62afcd16dea4705255a0603a08ab13",
     "modification_time": 1755575096.62244,
-    "processed_at": "2025-09-03 09:35:40.322759"
+    "processed_at": "2025-09-03 10:37:26.365689"
   },
   "NewEleven_Dashboard Products Group by ASIN_08_07_2025-08_07_2025_(02_19_15_601).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M7\\NewEleven_Dashboard Products Group by ASIN_08_07_2025-08_07_2025_(02_19_15_601).xlsx",
     "date": "2025-07-08",
     "hash": "fbe72fb4084a20726fe2b88ff1791ff3",
     "modification_time": 1755575096.62244,
-    "processed_at": "2025-09-03 09:35:40.374798"
+    "processed_at": "2025-09-03 10:37:26.393221"
   },
   "NewEleven_Dashboard Products Group by ASIN_09_07_2025-09_07_2025_(02_19_35_777).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M7\\NewEleven_Dashboard Products Group by ASIN_09_07_2025-09_07_2025_(02_19_35_777).xlsx",
     "date": "2025-07-09",
     "hash": "e8a437d91c8f8f607601b4fbca9ed3f5",
     "modification_time": 1755575096.623439,
-    "processed_at": "2025-09-03 09:35:40.415819"
+    "processed_at": "2025-09-03 10:37:26.419225"
   },
   "NewEleven_Dashboard Products Group by ASIN_10_07_2025-10_07_2025_(02_19_53_624).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M7\\NewEleven_Dashboard Products Group by ASIN_10_07_2025-10_07_2025_(02_19_53_624).xlsx",
     "date": "2025-07-10",
     "hash": "2d786d30f2f576df6e10100673204d0e",
     "modification_time": 1755575096.623439,
-    "processed_at": "2025-09-03 09:35:40.469490"
+    "processed_at": "2025-09-03 10:37:26.443700"
   },
   "NewEleven_Dashboard Products Group by ASIN_11_07_2025-11_07_2025_(02_20_12_322).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M7\\NewEleven_Dashboard Products Group by ASIN_11_07_2025-11_07_2025_(02_20_12_322).xlsx",
     "date": "2025-07-11",
     "hash": "3da8f4366468bf368d333f2372daf1dd",
     "modification_time": 1755575096.6248991,
-    "processed_at": "2025-09-03 09:35:40.511296"
+    "processed_at": "2025-09-03 10:37:26.470016"
   },
   "NewEleven_Dashboard Products Group by ASIN_12_07_2025-12_07_2025_(02_20_28_579).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M7\\NewEleven_Dashboard Products Group by ASIN_12_07_2025-12_07_2025_(02_20_28_579).xlsx",
     "date": "2025-07-12",
     "hash": "21360e37314a92bb78dd280554bce6d0",
     "modification_time": 1755575096.6248991,
-    "processed_at": "2025-09-03 09:35:40.558245"
+    "processed_at": "2025-09-03 10:37:26.492344"
   },
   "NewEleven_Dashboard Products Group by ASIN_13_07_2025-13_07_2025_(02_20_45_881).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M7\\NewEleven_Dashboard Products Group by ASIN_13_07_2025-13_07_2025_(02_20_45_881).xlsx",
     "date": "2025-07-13",
     "hash": "a628f647a9a2e1fe10fd3addd0f2c9a8",
     "modification_time": 1755575096.6248991,
-    "processed_at": "2025-09-03 09:35:40.599901"
+    "processed_at": "2025-09-03 10:37:26.515856"
   },
   "NewEleven_Dashboard Products Group by ASIN_14_07_2025-14_07_2025_(02_21_47_490).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M7\\NewEleven_Dashboard Products Group by ASIN_14_07_2025-14_07_2025_(02_21_47_490).xlsx",
     "date": "2025-07-14",
     "hash": "2beb6debfeeee49f816d07516d7bff1c",
     "modification_time": 1755575096.6262782,
-    "processed_at": "2025-09-03 09:35:40.632965"
+    "processed_at": "2025-09-03 10:37:26.542184"
   },
   "NewEleven_Dashboard Products Group by ASIN_15_07_2025-15_07_2025_(02_22_09_416).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M7\\NewEleven_Dashboard Products Group by ASIN_15_07_2025-15_07_2025_(02_22_09_416).xlsx",
     "date": "2025-07-15",
     "hash": "83691cad7c30af5d387b8f223bcc0879",
     "modification_time": 1755575096.6262782,
-    "processed_at": "2025-09-03 09:35:40.679614"
+    "processed_at": "2025-09-03 10:37:26.570123"
   },
   "NewEleven_Dashboard Products Group by ASIN_16_07_2025-16_07_2025_(02_22_25_149).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M7\\NewEleven_Dashboard Products Group by ASIN_16_07_2025-16_07_2025_(02_22_25_149).xlsx",
     "date": "2025-07-16",
     "hash": "6cbaa6eaa107a7fae8179c72d19ee4cb",
     "modification_time": 1755575096.6277003,
-    "processed_at": "2025-09-03 09:35:40.724931"
+    "processed_at": "2025-09-03 10:37:26.595033"
   },
   "NewEleven_Dashboard Products Group by ASIN_17_07_2025-17_07_2025_(02_22_44_477).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M7\\NewEleven_Dashboard Products Group by ASIN_17_07_2025-17_07_2025_(02_22_44_477).xlsx",
     "date": "2025-07-17",
     "hash": "0ca46c4ca647b4115fe69033ad947da0",
     "modification_time": 1755575096.6277003,
-    "processed_at": "2025-09-03 09:35:40.772213"
+    "processed_at": "2025-09-03 10:37:26.620401"
   },
   "NewEleven_Dashboard Products Group by ASIN_18_07_2025-18_07_2025_(02_23_03_403).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M7\\NewEleven_Dashboard Products Group by ASIN_18_07_2025-18_07_2025_(02_23_03_403).xlsx",
     "date": "2025-07-18",
     "hash": "2a8e254cf9b6687464a84c104fa007e3",
     "modification_time": 1755575096.6277003,
-    "processed_at": "2025-09-03 09:35:40.811453"
+    "processed_at": "2025-09-03 10:37:26.645661"
   },
   "NewEleven_Dashboard Products Group by ASIN_19_07_2025-19_07_2025_(02_23_28_630).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M7\\NewEleven_Dashboard Products Group by ASIN_19_07_2025-19_07_2025_(02_23_28_630).xlsx",
     "date": "2025-07-19",
     "hash": "c4e49b9fad4bba722f0c9b2b8f4a2bcb",
     "modification_time": 1755575096.6289608,
-    "processed_at": "2025-09-03 09:35:40.847376"
+    "processed_at": "2025-09-03 10:37:26.671925"
   },
   "NewEleven_Dashboard Products Group by ASIN_20_07_2025-20_07_2025_(02_23_44_322).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M7\\NewEleven_Dashboard Products Group by ASIN_20_07_2025-20_07_2025_(02_23_44_322).xlsx",
     "date": "2025-07-20",
     "hash": "31c951a51e6706171b88be2fd46285f6",
     "modification_time": 1755575096.6300259,
-    "processed_at": "2025-09-03 09:35:40.891240"
+    "processed_at": "2025-09-03 10:37:26.696045"
   },
   "NewEleven_Dashboard Products Group by ASIN_21_07_2025-21_07_2025_(02_24_36_725).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M7\\NewEleven_Dashboard Products Group by ASIN_21_07_2025-21_07_2025_(02_24_36_725).xlsx",
     "date": "2025-07-21",
     "hash": "2dedde144c28b3eefc4879797fef73eb",
     "modification_time": 1755575096.6300259,
-    "processed_at": "2025-09-03 09:35:40.938308"
+    "processed_at": "2025-09-03 10:37:26.721530"
   },
   "NewEleven_Dashboard Products Group by ASIN_22_07_2025-22_07_2025_(02_24_59_422).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M7\\NewEleven_Dashboard Products Group by ASIN_22_07_2025-22_07_2025_(02_24_59_422).xlsx",
     "date": "2025-07-22",
     "hash": "eec14fe2d018a1bf618e1f9a46ea5edd",
     "modification_time": 1755575096.6310308,
-    "processed_at": "2025-09-03 09:35:40.997913"
+    "processed_at": "2025-09-03 10:37:26.746768"
   },
   "NewEleven_Dashboard Products Group by ASIN_23_07_2025-23_07_2025_(02_25_27_489).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M7\\NewEleven_Dashboard Products Group by ASIN_23_07_2025-23_07_2025_(02_25_27_489).xlsx",
     "date": "2025-07-23",
     "hash": "e2ee2b03f3af2e677ab62dffdf4cfb65",
     "modification_time": 1755575096.6310308,
-    "processed_at": "2025-09-03 09:35:41.049546"
+    "processed_at": "2025-09-03 10:37:26.772141"
   },
   "NewEleven_Dashboard Products Group by ASIN_24_07_2025-24_07_2025_(02_25_50_194).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M7\\NewEleven_Dashboard Products Group by ASIN_24_07_2025-24_07_2025_(02_25_50_194).xlsx",
     "date": "2025-07-24",
     "hash": "bc1b918134ace70c21d9eaad45151b8b",
     "modification_time": 1755575096.6320417,
-    "processed_at": "2025-09-03 09:35:41.091416"
+    "processed_at": "2025-09-03 10:37:26.797944"
   },
   "NewEleven_Dashboard Products Group by ASIN_25_07_2025-25_07_2025_(02_26_07_983).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M7\\NewEleven_Dashboard Products Group by ASIN_25_07_2025-25_07_2025_(02_26_07_983).xlsx",
     "date": "2025-07-25",
     "hash": "736382a9ac99a2cf4e7b2c8ea31e151f",
     "modification_time": 1755575096.6320417,
-    "processed_at": "2025-09-03 09:35:41.129552"
+    "processed_at": "2025-09-03 10:37:26.823992"
   },
   "NewEleven_Dashboard Products Group by ASIN_26_07_2025-26_07_2025_(02_26_32_233).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M7\\NewEleven_Dashboard Products Group by ASIN_26_07_2025-26_07_2025_(02_26_32_233).xlsx",
     "date": "2025-07-26",
     "hash": "c77b7dd400294b86d3869aea6333b2ac",
     "modification_time": 1755575096.6330307,
-    "processed_at": "2025-09-03 09:35:41.166297"
+    "processed_at": "2025-09-03 10:37:26.848865"
   },
   "NewEleven_Dashboard Products Group by ASIN_27_07_2025-27_07_2025_(02_27_09_575).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M7\\NewEleven_Dashboard Products Group by ASIN_27_07_2025-27_07_2025_(02_27_09_575).xlsx",
     "date": "2025-07-27",
     "hash": "e05f1c0e46f01fb00c0cd9c8baec3669",
     "modification_time": 1755575096.6330307,
-    "processed_at": "2025-09-03 09:35:41.205174"
+    "processed_at": "2025-09-03 10:37:26.873299"
   },
   "NewEleven_Dashboard Products Group by ASIN_28_07_2025-28_07_2025_(02_27_30_663).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M7\\NewEleven_Dashboard Products Group by ASIN_28_07_2025-28_07_2025_(02_27_30_663).xlsx",
     "date": "2025-07-28",
     "hash": "d115e0c67f32bb4283721bc83145b75e",
     "modification_time": 1755575096.6340294,
-    "processed_at": "2025-09-03 09:35:41.237688"
+    "processed_at": "2025-09-03 10:37:26.896612"
   },
   "NewEleven_Dashboard Products Group by ASIN_29_07_2025-29_07_2025_(02_27_54_576).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M7\\NewEleven_Dashboard Products Group by ASIN_29_07_2025-29_07_2025_(02_27_54_576).xlsx",
     "date": "2025-07-29",
     "hash": "77f9bb8bf1cc9601ffcd368633e93e3e",
     "modification_time": 1755575096.6340294,
-    "processed_at": "2025-09-03 09:35:41.276776"
+    "processed_at": "2025-09-03 10:37:26.921376"
   },
   "NewEleven_Dashboard Products Group by ASIN_30_07_2025-30_07_2025_(02_28_11_985).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M7\\NewEleven_Dashboard Products Group by ASIN_30_07_2025-30_07_2025_(02_28_11_985).xlsx",
     "date": "2025-07-30",
     "hash": "144fd1d95b2183db1d0fd301061297f3",
     "modification_time": 1755575096.635036,
-    "processed_at": "2025-09-03 09:35:41.315401"
+    "processed_at": "2025-09-03 10:37:26.957443"
   },
   "NewEleven_Dashboard Products Group by ASIN_31_07_2025-31_07_2025_(02_28_40_743).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M7\\NewEleven_Dashboard Products Group by ASIN_31_07_2025-31_07_2025_(02_28_40_743).xlsx",
     "date": "2025-07-31",
     "hash": "e2289e18414fe9304a206db27390fa67",
     "modification_time": 1755575096.635036,
-    "processed_at": "2025-09-03 09:35:41.354065"
+    "processed_at": "2025-09-03 10:37:26.983790"
   },
   "NewEleven_Dashboard Products Group by ASIN_01_08_2025-01_08_2025_(02_29_37_523).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M8\\NewEleven_Dashboard Products Group by ASIN_01_08_2025-01_08_2025_(02_29_37_523).xlsx",
     "date": "2025-08-01",
     "hash": "4307c5e1e9ce5b7b7c2f9b85feedb2ce",
     "modification_time": 1755575096.6360312,
-    "processed_at": "2025-09-03 09:35:41.392708"
+    "processed_at": "2025-09-03 10:37:27.009588"
   },
   "NewEleven_Dashboard Products Group by ASIN_02_08_2025-02_08_2025_(02_31_39_571).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M8\\NewEleven_Dashboard Products Group by ASIN_02_08_2025-02_08_2025_(02_31_39_571).xlsx",
     "date": "2025-08-02",
     "hash": "922ba97ea750c22e6d64d7a6e2fea76b",
     "modification_time": 1755575096.6370294,
-    "processed_at": "2025-09-03 09:35:41.436776"
+    "processed_at": "2025-09-03 10:37:27.034589"
   },
   "NewEleven_Dashboard Products Group by ASIN_03_08_2025-03_08_2025_(00_20_13_243).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M8\\NewEleven_Dashboard Products Group by ASIN_03_08_2025-03_08_2025_(00_20_13_243).xlsx",
     "date": "2025-08-03",
     "hash": "60467ba6ae45a52201660dfbe0e5dc25",
     "modification_time": 1755587968.0165212,
-    "processed_at": "2025-09-03 09:35:41.475666"
+    "processed_at": "2025-09-03 10:37:27.062356"
   },
   "NewEleven_Dashboard Products Group by ASIN_04_08_2025-04_08_2025_(00_20_42_850).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M8\\NewEleven_Dashboard Products Group by ASIN_04_08_2025-04_08_2025_(00_20_42_850).xlsx",
     "date": "2025-08-04",
     "hash": "b7ef5e57edd6de1bc01e3a5ab94758a2",
     "modification_time": 1755587990.1232924,
-    "processed_at": "2025-09-03 09:35:41.516633"
+    "processed_at": "2025-09-03 10:37:27.089064"
   },
   "NewEleven_Dashboard Products Group by ASIN_05_08_2025-05_08_2025_(00_21_02_535).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M8\\NewEleven_Dashboard Products Group by ASIN_05_08_2025-05_08_2025_(00_21_02_535).xlsx",
     "date": "2025-08-05",
     "hash": "3069eb175d86d92662f8ee5bb6d6da73",
     "modification_time": 1755588009.9343581,
-    "processed_at": "2025-09-03 09:35:41.552487"
+    "processed_at": "2025-09-03 10:37:27.116188"
   },
   "NewEleven_Dashboard Products Group by ASIN_06_08_2025-06_08_2025_(01_58_45_358).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M8\\NewEleven_Dashboard Products Group by ASIN_06_08_2025-06_08_2025_(01_58_45_358).xlsx",
     "date": "2025-08-06",
     "hash": "39f547b9da90c2be4ba8c74f644c42c3",
     "modification_time": 1755766726.4289882,
-    "processed_at": "2025-09-03 09:35:41.596252"
+    "processed_at": "2025-09-03 10:37:27.141215"
   },
   "NewEleven_Dashboard Products Group by ASIN_07_08_2025-07_08_2025_(01_59_03_545).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M8\\NewEleven_Dashboard Products Group by ASIN_07_08_2025-07_08_2025_(01_59_03_545).xlsx",
     "date": "2025-08-07",
     "hash": "4914cbcda83447d735369ef5a9c32184",
     "modification_time": 1755766746.8332365,
-    "processed_at": "2025-09-03 09:35:41.643104"
+    "processed_at": "2025-09-03 10:37:27.174046"
   },
   "NewEleven_Dashboard Products Group by ASIN_08_08_2025-08_08_2025_(00_21_58_982).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M8\\NewEleven_Dashboard Products Group by ASIN_08_08_2025-08_08_2025_(00_21_58_982).xlsx",
     "date": "2025-08-08",
     "hash": "8db1530cc6e6fa1cc4f9ecf6b6127569",
     "modification_time": 1755588063.082535,
-    "processed_at": "2025-09-03 09:35:41.678337"
+    "processed_at": "2025-09-03 10:37:27.198735"
   },
   "NewEleven_Dashboard Products Group by ASIN_09_08_2025-09_08_2025_(00_22_17_837).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M8\\NewEleven_Dashboard Products Group by ASIN_09_08_2025-09_08_2025_(00_22_17_837).xlsx",
     "date": "2025-08-09",
     "hash": "cc388cc7f6ba32b5609ad422efd48c9e",
     "modification_time": 1755588082.2429726,
-    "processed_at": "2025-09-03 09:35:41.715576"
+    "processed_at": "2025-09-03 10:37:27.223434"
   },
   "NewEleven_Dashboard Products Group by ASIN_10_08_2025-10_08_2025_(00_22_32_925).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M8\\NewEleven_Dashboard Products Group by ASIN_10_08_2025-10_08_2025_(00_22_32_925).xlsx",
     "date": "2025-08-10",
     "hash": "aeb6d2c4791048aca3280849f1a60d6d",
     "modification_time": 1755588097.753274,
-    "processed_at": "2025-09-03 09:35:41.758179"
+    "processed_at": "2025-09-03 10:37:27.248431"
   },
   "NewEleven_Dashboard Products Group by ASIN_11_08_2025-11_08_2025_(00_22_49_674).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M8\\NewEleven_Dashboard Products Group by ASIN_11_08_2025-11_08_2025_(00_22_49_674).xlsx",
     "date": "2025-08-11",
     "hash": "6014ad0890bc2fa891a61dbff6cc2991",
     "modification_time": 1755588114.2474008,
-    "processed_at": "2025-09-03 09:35:41.805915"
+    "processed_at": "2025-09-03 10:37:27.273718"
   },
   "NewEleven_Dashboard Products Group by ASIN_12_08_2025-12_08_2025_(00_23_06_346).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M8\\NewEleven_Dashboard Products Group by ASIN_12_08_2025-12_08_2025_(00_23_06_346).xlsx",
     "date": "2025-08-12",
     "hash": "14048f2884b46f6a8f4211f91c15a29d",
     "modification_time": 1755588131.8826928,
-    "processed_at": "2025-09-03 09:35:41.852229"
+    "processed_at": "2025-09-03 10:37:27.300360"
   },
   "NewEleven_Dashboard Products Group by ASIN_13_08_2025-13_08_2025_(00_13_27_500).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M8\\NewEleven_Dashboard Products Group by ASIN_13_08_2025-13_08_2025_(00_13_27_500).xlsx",
     "date": "2025-08-13",
     "hash": "c9026f66e1aa4fa007883185c75fd513",
     "modification_time": 1756088053.1483464,
-    "processed_at": "2025-09-03 09:35:41.899060"
+    "processed_at": "2025-09-03 10:37:27.326544"
   },
   "NewEleven_Dashboard Products Group by ASIN_14_08_2025-14_08_2025_(00_14_12_537).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M8\\NewEleven_Dashboard Products Group by ASIN_14_08_2025-14_08_2025_(00_14_12_537).xlsx",
     "date": "2025-08-14",
     "hash": "bdb01fd391eef39ba4fd3e1d5471f367",
     "modification_time": 1756088053.1495185,
-    "processed_at": "2025-09-03 09:35:41.937158"
+    "processed_at": "2025-09-03 10:37:27.351741"
   },
   "NewEleven_Dashboard Products Group by ASIN_15_08_2025-15_08_2025_(00_14_36_185).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M8\\NewEleven_Dashboard Products Group by ASIN_15_08_2025-15_08_2025_(00_14_36_185).xlsx",
     "date": "2025-08-15",
     "hash": "63c45010cabf80d6ebc8ac7e1436086c",
     "modification_time": 1756088053.1495185,
-    "processed_at": "2025-09-03 09:35:41.974707"
+    "processed_at": "2025-09-03 10:37:27.378446"
   },
   "NewEleven_Dashboard Products Group by ASIN_16_08_2025-16_08_2025_(00_15_01_117).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M8\\NewEleven_Dashboard Products Group by ASIN_16_08_2025-16_08_2025_(00_15_01_117).xlsx",
     "date": "2025-08-16",
     "hash": "bf665f28c7c00ddfeefe8249a830704b",
     "modification_time": 1756088053.1506813,
-    "processed_at": "2025-09-03 09:35:42.020955"
+    "processed_at": "2025-09-03 10:37:27.401516"
   },
   "NewEleven_Dashboard Products Group by ASIN_17_08_2025-17_08_2025_(00_15_18_561).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M8\\NewEleven_Dashboard Products Group by ASIN_17_08_2025-17_08_2025_(00_15_18_561).xlsx",
     "date": "2025-08-17",
     "hash": "d8569574e0f71fa78b7f3a4b08f00137",
     "modification_time": 1756088053.1506813,
-    "processed_at": "2025-09-03 09:35:42.058383"
+    "processed_at": "2025-09-03 10:37:27.426900"
   },
   "NewEleven_Dashboard Products Group by ASIN_18_08_2025-18_08_2025_(00_15_40_811).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M8\\NewEleven_Dashboard Products Group by ASIN_18_08_2025-18_08_2025_(00_15_40_811).xlsx",
     "date": "2025-08-18",
     "hash": "9d0456b326d45f16ace834adfd3c851f",
     "modification_time": 1756088053.1516857,
-    "processed_at": "2025-09-03 09:35:42.090922"
+    "processed_at": "2025-09-03 10:37:27.452124"
   },
   "NewEleven_Dashboard Products Group by ASIN_19_08_2025-19_08_2025_(00_16_07_413).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M8\\NewEleven_Dashboard Products Group by ASIN_19_08_2025-19_08_2025_(00_16_07_413).xlsx",
     "date": "2025-08-19",
     "hash": "abcb5f8584a6884a16e618aadfa6b040",
     "modification_time": 1756088053.1516857,
-    "processed_at": "2025-09-03 09:35:42.127588"
+    "processed_at": "2025-09-03 10:37:27.476471"
   },
   "NewEleven_Dashboard Products Group by ASIN_20_08_2025-20_08_2025_(00_16_29_901).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M8\\NewEleven_Dashboard Products Group by ASIN_20_08_2025-20_08_2025_(00_16_29_901).xlsx",
     "date": "2025-08-20",
     "hash": "8c7e977ef95c9eee1641d8ced0841bea",
     "modification_time": 1756088053.1516857,
-    "processed_at": "2025-09-03 09:35:42.166805"
+    "processed_at": "2025-09-03 10:37:27.501602"
   },
   "NewEleven_Dashboard Products Group by ASIN_21_08_2025-21_08_2025_(00_16_50_846).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M8\\NewEleven_Dashboard Products Group by ASIN_21_08_2025-21_08_2025_(00_16_50_846).xlsx",
     "date": "2025-08-21",
     "hash": "b33f7beea01e94fb24601355440ca0cc",
     "modification_time": 1756088053.152857,
-    "processed_at": "2025-09-03 09:35:42.204495"
+    "processed_at": "2025-09-03 10:37:27.532408"
   },
   "NewEleven_Dashboard Products Group by ASIN_22_08_2025-22_08_2025_(00_16_03_351).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M8\\NewEleven_Dashboard Products Group by ASIN_22_08_2025-22_08_2025_(00_16_03_351).xlsx",
     "date": "2025-08-22",
     "hash": "426affee89e4a1f6aca4bbf4444f5727",
     "modification_time": 1756192566.3773782,
-    "processed_at": "2025-09-03 09:35:42.247531"
+    "processed_at": "2025-09-03 10:37:27.569002"
   },
   "NewEleven_Dashboard Products Group by ASIN_23_08_2025-23_08_2025_(00_16_17_604).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M8\\NewEleven_Dashboard Products Group by ASIN_23_08_2025-23_08_2025_(00_16_17_604).xlsx",
     "date": "2025-08-23",
     "hash": "31aea72bbea6129a8777b5b963991ffa",
     "modification_time": 1756192579.8984299,
-    "processed_at": "2025-09-03 09:35:42.286852"
+    "processed_at": "2025-09-03 10:37:27.609812"
   },
   "NewEleven_Dashboard Products Group by ASIN_24_08_2025-24_08_2025_(19_25_08_449).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M8\\NewEleven_Dashboard Products Group by ASIN_24_08_2025-24_08_2025_(19_25_08_449).xlsx",
     "date": "2025-08-24",
     "hash": "a2b523f624639023d5849c057d6249bd",
     "modification_time": 1756866310.1780043,
-    "processed_at": "2025-09-03 09:35:42.318701"
+    "processed_at": "2025-09-03 10:37:27.643303"
   },
   "NewEleven_Dashboard Products Group by ASIN_25_08_2025-25_08_2025_(19_26_09_208).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M8\\NewEleven_Dashboard Products Group by ASIN_25_08_2025-25_08_2025_(19_26_09_208).xlsx",
     "date": "2025-08-25",
     "hash": "193a1e7b8182632d7c2ac17864bde88a",
     "modification_time": 1756866372.1070375,
-    "processed_at": "2025-09-03 09:35:42.359889"
+    "processed_at": "2025-09-03 10:37:27.674199"
   },
   "NewEleven_Dashboard Products Group by ASIN_26_08_2025-26_08_2025_(19_26_34_570).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M8\\NewEleven_Dashboard Products Group by ASIN_26_08_2025-26_08_2025_(19_26_34_570).xlsx",
     "date": "2025-08-26",
     "hash": "200dd04dea2f7841b7ed56df5d5097fa",
     "modification_time": 1756866395.9593887,
-    "processed_at": "2025-09-03 09:35:42.393401"
+    "processed_at": "2025-09-03 10:37:27.711590"
   },
   "NewEleven_Dashboard Products Group by ASIN_27_08_2025-27_08_2025_(19_26_49_163).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M8\\NewEleven_Dashboard Products Group by ASIN_27_08_2025-27_08_2025_(19_26_49_163).xlsx",
     "date": "2025-08-27",
     "hash": "540dd0f0322d15f572f445332a9b458d",
     "modification_time": 1756866412.6948917,
-    "processed_at": "2025-09-03 09:35:42.426409"
+    "processed_at": "2025-09-03 10:37:27.736331"
   },
   "NewEleven_Dashboard Products Group by ASIN_28_08_2025-28_08_2025_(19_27_07_383).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M8\\NewEleven_Dashboard Products Group by ASIN_28_08_2025-28_08_2025_(19_27_07_383).xlsx",
     "date": "2025-08-28",
     "hash": "4de94fe686228636f8ddc730c3729c5c",
     "modification_time": 1756866428.926726,
-    "processed_at": "2025-09-03 09:35:42.479356"
+    "processed_at": "2025-09-03 10:37:27.761504"
   },
   "NewEleven_Dashboard Products Group by ASIN_29_08_2025-29_08_2025_(19_27_22_650).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M8\\NewEleven_Dashboard Products Group by ASIN_29_08_2025-29_08_2025_(19_27_22_650).xlsx",
     "date": "2025-08-29",
     "hash": "0b53f119012e754d0abe3af40261f34a",
     "modification_time": 1756866445.5140152,
-    "processed_at": "2025-09-03 09:35:42.516384"
+    "processed_at": "2025-09-03 10:37:27.786589"
   },
   "NewEleven_Dashboard Products Group by ASIN_30_08_2025-30_08_2025_(19_27_39_267).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M8\\NewEleven_Dashboard Products Group by ASIN_30_08_2025-30_08_2025_(19_27_39_267).xlsx",
     "date": "2025-08-30",
     "hash": "db28531ab4d2c13c2fc5ee63292db53d",
     "modification_time": 1756866462.4750676,
-    "processed_at": "2025-09-03 09:35:42.554407"
+    "processed_at": "2025-09-03 10:37:27.810523"
   },
   "NewEleven_Dashboard Products Group by ASIN_31_08_2025-31_08_2025_(19_27_55_200).xlsx": {
     "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\SB M8\\NewEleven_Dashboard Products Group by ASIN_31_08_2025-31_08_2025_(19_27_55_200).xlsx",
     "date": "2025-08-31",
     "hash": "80c4be647f5903340414672cd3205df9",
     "modification_time": 1756866479.6645093,
-    "processed_at": "2025-09-03 09:35:42.591215"
+    "processed_at": "2025-09-03 10:37:27.834320"
   }
 }
