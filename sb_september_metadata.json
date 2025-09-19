@@ -1,23 +1,16 @@
 {
-  "NewEleven_EU_Dashboard_Products_Group_by_ASIN_15_09_2025-15_09_2025_(09_42_12_939).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_UK\\Tháng 9\\NewEleven_EU_Dashboard_Products_Group_by_ASIN_15_09_2025-15_09_2025_(09_42_12_939).xlsx",
-    "date": "2025-09-15",
-    "hash": "8ac452c8e03642c6f180d5e21dad0ca3",
-    "modification_time": 1758184937.14565,
-    "processed_at": "2025-09-18 15:45:02.296533"
-  },
-  "NewEleven_EU_Dashboard_Products_Group_by_ASIN_16_09_2025-16_09_2025_(09_42_26_432).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_UK\\Tháng 9\\NewEleven_EU_Dashboard_Products_Group_by_ASIN_16_09_2025-16_09_2025_(09_42_26_432).xlsx",
-    "date": "2025-09-16",
-    "hash": "50ce6efa65b0e3afc215df00d0dd2287",
-    "modification_time": 1758184950.555452,
-    "processed_at": "2025-09-18 15:45:02.317808"
-  },
-  "NewEleven_EU_Dashboard_Products_Group_by_ASIN_17_09_2025-17_09_2025_(09_42_39_292).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_UK\\Tháng 9\\NewEleven_EU_Dashboard_Products_Group_by_ASIN_17_09_2025-17_09_2025_(09_42_39_292).xlsx",
+  "NewEleven_Dashboard_Products_Group_by_ASIN_17_09_2025-17_09_2025_(02_34_20_712).xlsx": {
+    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\Tháng 9\\NewEleven_Dashboard_Products_Group_by_ASIN_17_09_2025-17_09_2025_(02_34_20_712).xlsx",
     "date": "2025-09-17",
-    "hash": "33202ba829cf1e230c82d050e065e4a2",
-    "modification_time": 1758184963.8294992,
-    "processed_at": "2025-09-18 15:45:02.337580"
+    "hash": "ed00a81dbbd07dbe0cd98846236bb559",
+    "modification_time": 1758274463.5156474,
+    "processed_at": "2025-09-19 16:39:08.199466"
+  },
+  "NewEleven_Dashboard_Products_Group_by_ASIN_18_09_2025-18_09_2025_(02_33_57_751).xlsx": {
+    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\Tháng 9\\NewEleven_Dashboard_Products_Group_by_ASIN_18_09_2025-18_09_2025_(02_33_57_751).xlsx",
+    "date": "2025-09-18",
+    "hash": "be86b62d56f60602d0864a481d898288",
+    "modification_time": 1758274439.110899,
+    "processed_at": "2025-09-19 16:39:08.225588"
   }
 }
