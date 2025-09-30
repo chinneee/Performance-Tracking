@@ -1,16 +1,30 @@
 {
-  "NewEleven_Dashboard_Products_Group_by_ASIN_28_09_2025-28_09_2025_(2025_09_29_00_15_973).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\Tháng 9\\NewEleven_Dashboard_Products_Group_by_ASIN_28_09_2025-28_09_2025_(2025_09_29_00_15_973).xlsx",
+  "NewEleven_Dashboard_Products_Group_by_ASIN_28_09_2025-28_09_2025_(2025_09_30_00_27_320).xlsx": {
+    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\Tháng 9\\NewEleven_Dashboard_Products_Group_by_ASIN_28_09_2025-28_09_2025_(2025_09_30_00_27_320).xlsx",
     "date": "2025-09-28",
-    "hash": "ddb8f93a7c66c98a4594fee35f7276e6",
-    "modification_time": 1759130118.8241658,
-    "processed_at": "2025-09-29 14:24:20.334410"
+    "hash": "7c2b6ab558e03b31d2469699069fbdb4",
+    "modification_time": 1759217238.2508786,
+    "processed_at": "2025-09-30 14:32:34.173272"
   },
-  "NewEleven_Dashboard_Products_Group_by_ASIN_28_09_2025-28_09_2025_(2025_09_29_00_16_634).xlsx": {
-    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_CA\\Tháng 9\\NewEleven_Dashboard_Products_Group_by_ASIN_28_09_2025-28_09_2025_(2025_09_29_00_16_634).xlsx",
+  "NewEleven_Dashboard_Products_Group_by_ASIN_29_09_2025-29_09_2025_(2025_09_30_00_26_115).xlsx": {
+    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_US\\Tháng 9\\NewEleven_Dashboard_Products_Group_by_ASIN_29_09_2025-29_09_2025_(2025_09_30_00_26_115).xlsx",
+    "date": "2025-09-29",
+    "hash": "2a8386b2753cf20d9feb0f2fe0abb218",
+    "modification_time": 1759217210.4840708,
+    "processed_at": "2025-09-30 14:32:34.203472"
+  },
+  "NewEleven_Dashboard_Products_Group_by_ASIN_28_09_2025-28_09_2025_(2025_09_30_00_40_478).xlsx": {
+    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_CA\\Tháng 9\\NewEleven_Dashboard_Products_Group_by_ASIN_28_09_2025-28_09_2025_(2025_09_30_00_40_478).xlsx",
     "date": "2025-09-28",
-    "hash": "ff28ab5ec07ba15475fcad074f1cfd03",
-    "modification_time": 1759130193.8579974,
-    "processed_at": "2025-09-29 14:26:42.406052"
+    "hash": "f241a204250b3a6a320717f103e9389b",
+    "modification_time": 1759218050.9087188,
+    "processed_at": "2025-09-30 14:45:00.697498"
+  },
+  "NewEleven_Dashboard_Products_Group_by_ASIN_29_09_2025-29_09_2025_(2025_09_30_00_41_422).xlsx": {
+    "path": "C:/Users/admin1/Desktop/Performance-Tracking/Agg-SB/H2_2025_CA\\Tháng 9\\NewEleven_Dashboard_Products_Group_by_ASIN_29_09_2025-29_09_2025_(2025_09_30_00_41_422).xlsx",
+    "date": "2025-09-29",
+    "hash": "3564f6602dc4afd7eeaddf9cce51b0e1",
+    "modification_time": 1759218065.0104444,
+    "processed_at": "2025-09-30 14:45:00.724225"
   }
 }
